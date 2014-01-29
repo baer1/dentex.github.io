@@ -13,43 +13,18 @@ Today I finished the implementation of BugSense to keep track of application's C
 Neat.
 
 ...from the latest GitHub commits logs:
-
-
-
 	
   * implemented BugSense (www.bugsense.com)
-
-	
   * added progressBar for FFmpeg jobs
-
-	
   * moved FFmpeg jobs to own thread
-
-	
   * new screenshots
-
-	
   * changed README builder
-
-	
   * improved error handling for FFmpeg process; implemented "remove video" pref
-
-	
   * tutorials to own menu; audio extraction tutorial entry
-
-	
   * finished sound/vibration/flash notification option
-
-	
   * fix FC with no audio extraction enabled (due to NullPointer for the audioConfirm checkbox)
-
-	
   * starting work for ring/vibration/flash notification setting
-
-	
   * fixed media scan; reorganized code credits
-
-	
   * adding confirmation dialog checkbox for audio jobs
 
 

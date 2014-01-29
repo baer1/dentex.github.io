@@ -6,33 +6,42 @@ comments: true
 categories: [WP-imported]
 ---
 
-[![ic_launcher_ytd](http://ytdownloader.sourceforge.net/wp-content/uploads/2013/07/ic_launcher_ytd.png)](http://ytdownloader.sourceforge.net/wp-content/uploads/2013/07/ic_launcher_ytd.png)
+![YTD](../images/128x128-ic_launcher_ytd_mod-web.png)
 
-The App can be accessed:
+Android app to download YouTube video (and extract/convert audio to mp3).
 
-- via the share button in the YouTube App, while watching a video;
-	
-- sharing any YouTube plain text link via any other App;
-	
-- via direct link click of a YouTube video address in any text (mail app, sms, webpage, etc).
+##How to access the app:
+- Select the "share" button in the YouTube App while watching a video (or share any YouTube plain text link via any App) and choose "YouTube downloader".
+- You'll see all the video codecs and qualities available for the video you're on.
+then:
+- Press an item to download the video locally (on the device) or to send the download via SSH to a remote PC. Destination machine requirements: Bash and Wget. Other SSH info available;
+- Long-press an item and choose between copy to clipboard or share link as text.
+Note: such a link (differently from when you send it via SSH) can be only used from the same device where it has been created OR from the same LAN, if you share it to another PC.
+From v2.0, extract or convert the audio to mp3 from a downloaded video (dowload FFmpeg and choose extraction).
+From v3.0, dashboard to interact with downloaded videos.
 
-Then choose YouTube Downloader and you will have further usage info.
+- Translations: at [Getlocalization](www.getlocalization.com/ytdownloader)
+- Discussions: at the [XDA Thread](http://forum.xda-developers.com/showthread.php?p=377087)
 
-You'll see all the video codecs and qualities available for the video you're on.
+##FEATURES:
+- Download of YouTube videos (support for remote download to another PC via SSH)
+- Support for any format/quality available from YouTube
+- Audio extraction/conversion to mp3 via item menu in the Dashboard
+- Mux Audio- and Video-only streams into a complete video (to enjoy HD resolutions available as separated streams only)
+- File management options via long-click on an item in the Dashboard
+- Handle download link: copy and/or pass it to other apps
+- video list filters by format, quality ecc via (left) sliding menu
+- Many preferences to customize usage
+- KNOWN ISSUE: some very long running downloads may be forced to PAUSE state if the Dashboard activity is not kept to the front
 
-Then:
-	
-- Press an item to download the video locally (on the device) or to send the download via SSH to a remote PC. Destination machine requirements: Bash and Wget. Additional SSH info using the App;
-	
-- Long-press an item and choose between copy to clipboard or share link as text (i.e. send to another app). Note: such a link (differently from when you send it via SSH) can be only used from the same device where it has been created OR from the same LAN, if you share it to another PC.
+##ANTI-FEATURES:
+Are not supported for download all video that:
 
+- require login (i.e. age restricted video);
+- implement encrypted streams (some complete movies);
+- aren't available in your country;
+- are live events.
 
-To extract or convert to mp3 the audio from a downloaded video:
-	
-- Enable the audio preference and download FFmpeg;
-	
-- click on an item (complete download) in the Dashboard;
-	
-- select to extract only or convert audio to mp3.
-
-
+##BEFORE INSTALLATION:
+- remember to enable "unknown sources" from Application's system settings, to allow install of non market Apps
+- disable apps as Halo, Screenfilter, Twilight or anything similar, otherwise the "install" button will not work
