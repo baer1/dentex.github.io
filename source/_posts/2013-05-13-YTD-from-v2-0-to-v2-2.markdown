@@ -1,0 +1,18 @@
+---
+layout: post
+title: From v2.0 to v2.2
+date: 2013-05-13 07:58:20 +0100
+comments: true
+categories: [WP-imported]
+---
+
+I finally completed the version 2.0 of YTD, released a few days ago.
+
+Since then, I've been busy trying to fix bugs, thanks to BugSense...
+
+I found that a lot of crashes occurred in "real world scenarios", while all worked perfectly on the "development device" (my personal smartphone - :O - a Samsung Galaxy s2) and the emulators. 
+
+Many of them are now fixed, leading to a more efficient and stable App.
+
+Errors through latest days:
+[![Errors through latest days](http://ytdownloader.sourceforge.net/wp-content/uploads/2013/05/ScreenShot00040-1024x150.jpg)](http://ytdownloader.sourceforge.net/wp-content/uploads/2013/05/ScreenShot00040.jpg)

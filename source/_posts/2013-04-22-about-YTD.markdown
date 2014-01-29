@@ -1,0 +1,38 @@
+---
+layout: post
+title: About YTD
+date: 2013-04-22 12:27:47 +0100
+comments: true
+categories: [WP-imported]
+---
+
+[![ic_launcher_ytd](http://ytdownloader.sourceforge.net/wp-content/uploads/2013/07/ic_launcher_ytd.png)](http://ytdownloader.sourceforge.net/wp-content/uploads/2013/07/ic_launcher_ytd.png)
+
+The App can be accessed:
+
+- via the share button in the YouTube App, while watching a video;
+	
+- sharing any YouTube plain text link via any other App;
+	
+- via direct link click of a YouTube video address in any text (mail app, sms, webpage, etc).
+
+Then choose YouTube Downloader and you will have further usage info.
+
+You'll see all the video codecs and qualities available for the video you're on.
+
+Then:
+	
+- Press an item to download the video locally (on the device) or to send the download via SSH to a remote PC. Destination machine requirements: Bash and Wget. Additional SSH info using the App;
+	
+- Long-press an item and choose between copy to clipboard or share link as text (i.e. send to another app). Note: such a link (differently from when you send it via SSH) can be only used from the same device where it has been created OR from the same LAN, if you share it to another PC.
+
+
+To extract or convert to mp3 the audio from a downloaded video:
+	
+- Enable the audio preference and download FFmpeg;
+	
+- click on an item (complete download) in the Dashboard;
+	
+- select to extract only or convert audio to mp3.
+
+
