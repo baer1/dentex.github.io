@@ -4,7 +4,7 @@
   <title><![CDATA[Category: WP-imported | YouTube Downloader for Android]]></title>
   <link href="http://dentex.github.io/blog/categories/wp-imported/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-01-29T20:28:32+01:00</updated>
+  <updated>2014-01-29T21:02:33+01:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -75,18 +75,18 @@
 <p>&hellip;from the latest GitHub commits logs:</p>
 
 <ul>
-<li><p>implemented BugSense (www.bugsense.com)</p></li>
-<li><p>added progressBar for FFmpeg jobs</p></li>
-<li><p>moved FFmpeg jobs to own thread</p></li>
-<li><p>new screenshots</p></li>
-<li><p>changed README builder</p></li>
-<li><p>improved error handling for FFmpeg process; implemented &ldquo;remove video&rdquo; pref</p></li>
-<li><p>tutorials to own menu; audio extraction tutorial entry</p></li>
-<li><p>finished sound/vibration/flash notification option</p></li>
-<li><p>fix FC with no audio extraction enabled (due to NullPointer for the audioConfirm checkbox)</p></li>
-<li><p>starting work for ring/vibration/flash notification setting</p></li>
-<li><p>fixed media scan; reorganized code credits</p></li>
-<li><p>adding confirmation dialog checkbox for audio jobs</p></li>
+<li>implemented BugSense (www.bugsense.com)</li>
+<li>added progressBar for FFmpeg jobs</li>
+<li>moved FFmpeg jobs to own thread</li>
+<li>new screenshots</li>
+<li>changed README builder</li>
+<li>improved error handling for FFmpeg process; implemented &ldquo;remove video&rdquo; pref</li>
+<li>tutorials to own menu; audio extraction tutorial entry</li>
+<li>finished sound/vibration/flash notification option</li>
+<li>fix FC with no audio extraction enabled (due to NullPointer for the audioConfirm checkbox)</li>
+<li>starting work for ring/vibration/flash notification setting</li>
+<li>fixed media scan; reorganized code credits</li>
+<li>adding confirmation dialog checkbox for audio jobs</li>
 </ul>
 
 ]]></content>
@@ -97,35 +97,58 @@
     <link href="http://dentex.github.io/blog/2013/04/22/about-YTD/"/>
     <updated>2013-04-22T13:27:47+02:00</updated>
     <id>http://dentex.github.io/blog/2013/04/22/about-YTD</id>
-    <content type="html"><![CDATA[<p><a href="http://ytdownloader.sourceforge.net/wp-content/uploads/2013/07/ic_launcher_ytd.png"><img src="http://ytdownloader.sourceforge.net/wp-content/uploads/2013/07/ic_launcher_ytd.png" alt="ic_launcher_ytd" /></a></p>
+    <content type="html"><![CDATA[<p><img src="../images/128x128-ic_launcher_ytd_mod-web.png" alt="YTD" /></p>
 
-<p>The App can be accessed:</p>
+<p>Android app to download YouTube video (and extract/convert audio to mp3).</p>
+
+<h2>How to access the app:</h2>
 
 <ul>
-<li><p>via the share button in the YouTube App, while watching a video;</p></li>
-<li><p>sharing any YouTube plain text link via any other App;</p></li>
-<li><p>via direct link click of a YouTube video address in any text (mail app, sms, webpage, etc).</p></li>
+<li>Select the &ldquo;share&rdquo; button in the YouTube App while watching a video (or share any YouTube plain text link via any App) and choose &ldquo;YouTube downloader&rdquo;.</li>
+<li>You&rsquo;ll see all the video codecs and qualities available for the video you&rsquo;re on.
+then:</li>
+<li>Press an item to download the video locally (on the device) or to send the download via SSH to a remote PC. Destination machine requirements: Bash and Wget. Other SSH info available;</li>
+<li><p>Long-press an item and choose between copy to clipboard or share link as text.
+Note: such a link (differently from when you send it via SSH) can be only used from the same device where it has been created OR from the same LAN, if you share it to another PC.
+From v2.0, extract or convert the audio to mp3 from a downloaded video (dowload FFmpeg and choose extraction).
+From v3.0, dashboard to interact with downloaded videos.</p></li>
+<li><p>Translations: at <a href="www.getlocalization.com/ytdownloader">Getlocalization</a></p></li>
+<li>Discussions: at the <a href="http://forum.xda-developers.com/showthread.php?p=377087">XDA Thread</a></li>
 </ul>
 
 
-<p>Then choose YouTube Downloader and you will have further usage info.</p>
-
-<p>You&rsquo;ll see all the video codecs and qualities available for the video you&rsquo;re on.</p>
-
-<p>Then:</p>
+<h2>FEATURES:</h2>
 
 <ul>
-<li><p>Press an item to download the video locally (on the device) or to send the download via SSH to a remote PC. Destination machine requirements: Bash and Wget. Additional SSH info using the App;</p></li>
-<li><p>Long-press an item and choose between copy to clipboard or share link as text (i.e. send to another app). Note: such a link (differently from when you send it via SSH) can be only used from the same device where it has been created OR from the same LAN, if you share it to another PC.</p></li>
+<li>Download of YouTube videos (support for remote download to another PC via SSH)</li>
+<li>Support for any format/quality available from YouTube</li>
+<li>Audio extraction/conversion to mp3 via item menu in the Dashboard</li>
+<li>Mux Audio- and Video-only streams into a complete video (to enjoy HD resolutions available as separated streams only)</li>
+<li>File management options via long-click on an item in the Dashboard</li>
+<li>Handle download link: copy and/or pass it to other apps</li>
+<li>video list filters by format, quality ecc via (left) sliding menu</li>
+<li>Many preferences to customize usage</li>
+<li>KNOWN ISSUE: some very long running downloads may be forced to PAUSE state if the Dashboard activity is not kept to the front</li>
 </ul>
 
 
-<p>To extract or convert to mp3 the audio from a downloaded video:</p>
+<h2>ANTI-FEATURES:</h2>
+
+<p>Are not supported for download all video that:</p>
 
 <ul>
-<li><p>Enable the audio preference and download FFmpeg;</p></li>
-<li><p>click on an item (complete download) in the Dashboard;</p></li>
-<li><p>select to extract only or convert audio to mp3.</p></li>
+<li>require login (i.e. age restricted video);</li>
+<li>implement encrypted streams (some complete movies);</li>
+<li>aren&rsquo;t available in your country;</li>
+<li>are live events.</li>
+</ul>
+
+
+<h2>BEFORE INSTALLATION:</h2>
+
+<ul>
+<li>remember to enable &ldquo;unknown sources&rdquo; from Application&rsquo;s system settings, to allow install of non market Apps</li>
+<li>disable apps as Halo, Screenfilter, Twilight or anything similar, otherwise the &ldquo;install&rdquo; button will not work</li>
 </ul>
 
 ]]></content>
