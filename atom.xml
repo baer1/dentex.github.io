@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[YouTube Downloader for Android]]></title>
+  <title><![CDATA[dentex's blog]]></title>
   <link href="http://dentex.github.io/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-01-30T11:48:41+01:00</updated>
+  <updated>2014-01-30T15:57:23+01:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -101,7 +101,7 @@ and an audio-only streams into a single complete video.</p>
 <p>Many of them are now fixed, leading to a more efficient and stable App.</p>
 
 <p>Errors through latest days:
-<a href="http://ytdownloader.sourceforge.net/wp-content/uploads/2013/05/ScreenShot00040.jpg"><img src="http://ytdownloader.sourceforge.net/wp-content/uploads/2013/05/ScreenShot00040-1024x150.jpg" alt="Errors through latest days" /></a></p>
+<img src="../images/others/bs_errors.jpg" alt="Errors through latest days" /></p>
 ]]></content>
   </entry>
   
