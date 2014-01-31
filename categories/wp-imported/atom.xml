@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[dentex's blog]]></title>
-  <link href="http://dentex.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: WP-imported | dentex's blog]]></title>
+  <link href="http://dentex.github.io/categories/wp-imported/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
   <updated>2014-01-31T19:40:55+01:00</updated>
   <id>http://dentex.github.io/</id>
@@ -12,85 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Jekyll/Octopress Blog Switch]]></title>
-    <link href="http://dentex.github.io/2014-01-31/jekyll-slash-octopress-blog-switch/"/>
-    <updated>2014-01-31T10:50:12+01:00</updated>
-    <id>http://dentex.github.io/2014-01-31/jekyll-slash-octopress-blog-switch</id>
-    <content type="html"><![CDATA[<p><img class="oct" src="http://dentex.github.io/images/others/octopress-logo.png">
-<img class="jek" src="http://dentex.github.io/images/others/jekyll-logo.png"></p>
-
-<p>This days I&rsquo;ve been setting up this blog using Octopress.</p>
-
-<p><a href="http://octopress.org/">Octopress</a> is a framework designed by <a href="http://brandonmathis.com/">Brandon Mathis</a> for <a href="http://jekyllrb.com/">Jekyll</a>, the blog aware static site generator powering <a href="http://pages.github.com/">Github Pages</a>.</p>
-
-<p>From their repository descriptions:</p>
-
-<blockquote><p>Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy.</p><footer><strong>https://github.com/imathis/octopress</strong></footer></blockquote>
-
-
-
-
-<blockquote><p>Jekyll is a blog-aware, static site generator in Ruby.</p><footer><strong>https://github.com/jekyll/jekyll</strong></footer></blockquote>
-
-
-<p>It&rsquo;s great. It doesn&rsquo;t need all the fluff I&rsquo;ve been using with the WordPress blog at SourceForge. Slick and neat: all is managed through the command line, it uses <code>markdown</code> sintax and push/pull is done with <code>git</code>, directly on your GitHub repo hosting your blog.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[How to 'Mux' (Combine Audio and Video) With YTD...]]></title>
-    <link href="http://dentex.github.io/2014-01-29/how-to-mux-combine-audio-and-video-with-ytd-dot-dot-dot/"/>
-    <updated>2014-01-29T20:14:07+01:00</updated>
-    <id>http://dentex.github.io/2014-01-29/how-to-mux-combine-audio-and-video-with-ytd-dot-dot-dot</id>
-    <content type="html"><![CDATA[<h2>&hellip;and have back 1080p or higher resolution.</h2>
-
-<p>To be able to enjoy the 1080p and higher YouTube video resolutions,
-I added the Dashboard/FFmpeg feature to <strong>MUX</strong> (merge) a video-only
-and an audio-only streams into a single complete video.</p>
-
-<p><strong>Downloads:</strong></p>
-
-<ul>
-<li>enable the <code>Get secondary streams</code> preference;</li>
-<li>go share a video to YTD;</li>
-<li>click to download the desired <strong>VO</strong> stream <em>AND</em> an <strong>AO</strong> stream.</li>
-</ul>
-
-
-<p><img src="http://dentex.github.io/images/screenshots/how-to-mux/1.png" width="300" title="settings" ></p>
-
-<p><strong>After downloads completion:</strong></p>
-
-<ul>
-<li>click on the <strong>VO</strong> video into the Dashboard;</li>
-<li>select the <code>Add audio stream (already downloaded)</code> entry;</li>
-<li>follow instructions to download the latest FFmpeg build
-[if not already downloaded];</li>
-<li>click OK;</li>
-<li>wait for completion.</li>
-</ul>
-
-
-<p><img src="http://dentex.github.io/images/screenshots/how-to-mux/2.png" width="300" title="select the VO stream" >
-<img src="http://dentex.github.io/images/screenshots/how-to-mux/3.png" width="300" title="select entry" >
-<img src="http://dentex.github.io/images/screenshots/how-to-mux/4.png" width="300" title="confirm" ></p>
-
-<p>A complete video should be avaiable to open from the Dashboard, tagged with <code>MUX</code>.</p>
-
-<p><img src="http://dentex.github.io/images/screenshots/how-to-mux/5.png" width="300" title="mux entry available" ></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Infographic: How to Use YTD Without the YouTube App]]></title>
-    <link href="http://dentex.github.io/2014-01-29/infographic-how-to-use-ytd-without-the-youtube-app/"/>
-    <updated>2014-01-29T20:10:41+01:00</updated>
-    <id>http://dentex.github.io/2014-01-29/infographic-how-to-use-ytd-without-the-youtube-app</id>
-    <content type="html"><![CDATA[<p><img src="http://dentex.github.io/images/infographics/YTD_no-YouTube.png" alt="info" /></p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[YTD v3.0]]></title>
@@ -107,8 +28,8 @@ and an audio-only streams into a single complete video.</p>
 
 <p>Long click to do file management: Copy &ndash; Move &ndash; Rename and also Re-download video &ndash; Remove (from Dashboard only) &ndash; Delete (to remove also the file) &ndash; Pause/Resume (available when downloads are In-Progress).</p>
 
-<p><img src="http://dentex.github.io/images/screenshots/general/374x654-DFG_2013-10-09-07-07-58.png" width="300" title="click menu" >
-<img src="http://dentex.github.io/images/screenshots/general/374x654-DFG_2013-10-09-07-07-36.png" width="300" title="long-click menu" ></p>
+<p><img src="/images/screenshots/general/374x654-DFG_2013-10-09-07-07-58.png" width="300" title="click menu" >
+<img src="/images/screenshots/general/374x654-DFG_2013-10-09-07-07-36.png" width="300" title="long-click menu" ></p>
 ]]></content>
   </entry>
   
@@ -139,7 +60,7 @@ and an audio-only streams into a single complete video.</p>
 <p>Many of them are now fixed, leading to a more efficient and stable App.</p>
 
 <p>Errors through latest days:
-<img src="http://dentex.github.io/images/others/bs_errors.jpg" alt="Errors through latest days" /></p>
+<img src="/images/others/bs_errors.jpg" alt="Errors through latest days" /></p>
 ]]></content>
   </entry>
   
@@ -179,7 +100,7 @@ and an audio-only streams into a single complete video.</p>
     <link href="http://dentex.github.io/2013-04-22/about-YTD/"/>
     <updated>2013-04-22T13:27:47+02:00</updated>
     <id>http://dentex.github.io/2013-04-22/about-YTD</id>
-    <content type="html"><![CDATA[<p><img src="http://dentex.github.io/images/apps/128x128-ic_launcher_ytd_mod-web.png" alt="YTD" /></p>
+    <content type="html"><![CDATA[<p><img src="/images/apps/128x128-ic_launcher_ytd_mod-web.png" alt="YTD" /></p>
 
 <p>Android app to download YouTube video (and extract/convert audio to mp3).</p>
 
