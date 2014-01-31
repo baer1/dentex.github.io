@@ -4,7 +4,7 @@
 
 url: http://dentex.github.io
 title: dentex's blog
-subtitle: YouTube Downloader for Android developer
+subtitle: Android app and more (WIP) stuff
 author: Samuele Rini
 simple_search: http://google.com/search
 description: dentex's blog
@@ -51,7 +51,7 @@ titlecase: true       # Converts page and post titles to titlecase
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [asides/recent_posts.html, asides/github.html, custom/asides/twitter.html, asides/googleplus.html]
+default_asides: [asides/recent_posts.html, custom/asides/flattr.html, asides/github.html, custom/asides/twitter.html, asides/googleplus.html]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
@@ -99,3 +99,4 @@ google_analytics_tracking_id: UA-40497864-3
 
 # Facebook Like
 facebook_like: false
+

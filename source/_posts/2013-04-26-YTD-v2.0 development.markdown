@@ -28,5 +28,3 @@ Neat.
   * starting work for ring/vibration/flash notification setting
   * fixed media scan; reorganized code credits
   * adding confirmation dialog checkbox for audio jobs
-
-
