@@ -4,7 +4,7 @@
 
 url: http://dentex.github.io
 title: dentex's blog
-subtitle: Android app and more (WIP) stuff
+subtitle: Android apps and more (WIP) stuff
 author: Samuele Rini
 simple_search: http://google.com/search
 description: dentex's blog
@@ -17,7 +17,7 @@ keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, 
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss:
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
@@ -28,12 +28,12 @@ email:
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:year/:month/:day/:title/
+permalink: /:year-:month-:day/:title/
 source: source
 destination: public
 plugins: plugins
 code_dir: downloads/code
-category_dir: blog/categories
+category_dir: categories
 markdown: rdiscount
 rdiscount:
   extensions:
