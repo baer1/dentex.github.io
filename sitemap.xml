@@ -2,54 +2,58 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://dentex.github.io/blog/2013/04/22/about-YTD/</loc>
-        <lastmod>2014-01-30T15:44:04+01:00</lastmod>
+        <lastmod>2014-01-31T09:39:14+01:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2013/04/26/YTD-v2.0+development/</loc>
-        <lastmod>2014-01-30T15:44:04+01:00</lastmod>
+        <lastmod>2014-01-31T09:39:14+01:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2013/05/13/YTD-from-v2-0-to-v2-2/</loc>
-        <lastmod>2014-01-30T15:44:04+01:00</lastmod>
+        <lastmod>2014-01-31T09:39:14+01:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2013/07/08/YTD-v3-development/</loc>
-        <lastmod>2014-01-30T15:44:04+01:00</lastmod>
+        <lastmod>2014-01-31T09:39:14+01:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2013/10/11/YTD-v3/</loc>
-        <lastmod>2014-01-30T15:44:04+01:00</lastmod>
+        <lastmod>2014-01-31T09:39:14+01:00</lastmod>
     </url>
     <url>
         <loc>
             http://dentex.github.io/blog/2014/01/29/infographic-how-to-use-ytd-without-the-youtube-app/
         </loc>
-        <lastmod>2014-01-30T15:44:04+01:00</lastmod>
+        <lastmod>2014-01-31T09:39:14+01:00</lastmod>
     </url>
     <url>
         <loc>
             http://dentex.github.io/blog/2014/01/29/how-to-mux-combine-audio-and-video-with-ytd-dot-dot-dot/
         </loc>
-        <lastmod>2014-01-30T15:44:04+01:00</lastmod>
+        <lastmod>2014-01-31T09:39:14+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dentex.github.io/readme/</loc>
+        <lastmod>2014-01-31T09:39:14+01:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/screenshots/</loc>
-        <lastmod>2014-01-29T19:35:49+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dentex.github.io/blog/archives/</loc>
-        <lastmod>2014-01-30T15:44:04+01:00</lastmod>
+        <lastmod>2014-01-31T09:39:14+01:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/robots.txt</loc>
-        <lastmod>2014-01-29T19:35:49+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dentex.github.io/</loc>
-        <lastmod>2014-01-30T15:44:04+01:00</lastmod>
+        <lastmod>2014-01-31T09:39:14+01:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/App/</loc>
-        <lastmod>2014-01-30T15:49:55+01:00</lastmod>
+        <lastmod>2014-01-31T09:39:14+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dentex.github.io/blog/archives/</loc>
+        <lastmod>2014-01-31T09:39:14+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dentex.github.io/</loc>
+        <lastmod>2014-01-31T09:39:14+01:00</lastmod>
     </url>
 </urlset>
