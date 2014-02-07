@@ -1,0 +1,14 @@
+INFO
+=======
+This folder contains the sources and the script 
+used to compile the lame library and the FFmpeg
+binaries available for download from YTD.
+
+USAGE
+=======
+Open the build script, set the NDK variables and then run it.
+
+LICENSE
+=======
+Available FFmpeg binaries are compiled using the LGPL.
+For further info, see inside FFmpeg and lame source folders.
