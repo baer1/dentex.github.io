@@ -12,7 +12,11 @@ keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, 
 
 `versionName="3.6.4"`
 
-MD5 checksum: `26b759f958b3d92929ad013d6428be78` [dentex.youtube.downloader_v3.6.4.apk](https://sourceforge.net/projects/ytdownloader/files/latest/download)
+[dentex.youtube.downloader_v3.6.4.apk](https://sourceforge.net/projects/ytdownloader/files/latest/download)
+
+MD5 checksum: `26b759f958b3d92929ad013d6428be78`
+
+SHA1 checksum: `ed08340fc9045ba65e6ab3ba12216c087902b031`
 
 ## LICENSE
 
