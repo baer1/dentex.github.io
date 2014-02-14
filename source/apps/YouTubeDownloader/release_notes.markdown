@@ -11,14 +11,6 @@ keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, 
     YouTube Downloader for Android 
     Copyright (C) 2012-2014 Samuele Rini
 
-## DISCLAIMER
-
-    You, the user, accept the full responsibility for the usage of this application, 
-    excluding the developer from any liability about any consequence that may derive. 
-    Thus, this application has to be considered as a mere technical service provider.
-    Any material downloaded or otherwise obtained through this Android app is done
-    at your own risk and discretion.
-
 ## CREDITS
 
     Custom download manager to Hiroshi Matsunaga (matsuhiro): 
