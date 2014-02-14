@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "YouTube Downloader Release Notes"
+title: "YouTube Downloader's Release Notes"
 date: 2014-02-12 19:30
 comments: true
 sharing: true
@@ -17,8 +17,7 @@ keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, 
     excluding the developer from any liability about any consequence that may derive. 
     Thus, this application has to be considered as a mere technical service provider.
     Any material downloaded or otherwise obtained through this Android app is done
-    at your own risk and discretion and you will be solely responsible for any damage 
-    or loss of data that results from the downloading or use of any such material.
+    at your own risk and discretion.
 
 ## CREDITS
 

@@ -24,7 +24,9 @@ MD5 checksum: `26b759f958b3d92929ad013d6428be78`
 
 SHA1 checksum: `ed08340fc9045ba65e6ab3ba12216c087902b031`
 
-##[Release notes](/apps/YouTubeDownloader/release_notes.html)
+##[Release Notes](/apps/YouTubeDownloader/release_notes.html)
+
+##[End User License Agreement](/apps/YouTubeDownloader/eula.html)
 
 ##USAGE:
 - Select the "share" button in the YouTube App while watching a video (or share any YouTube plain text link via any App) and choose "YouTube downloader".
