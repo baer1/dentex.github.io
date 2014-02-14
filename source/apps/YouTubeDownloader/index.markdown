@@ -61,7 +61,7 @@ Are not supported for download all video that:
 - disable apps as Halo, Screenfilter, Twilight or anything similar, otherwise the "install" button will not work
 
 ###Translation project:
-[Getlocalization](www.getlocalization.com/ytdownloader)
+[Getlocalization](http://www.getlocalization.com/ytdownloader/)
 
 ###Support forum:
-[XDA-developers Thread](http://forum.xda-developers.com/showthread.php?p=377087)
+[XDA-developers Thread](http://forum.xda-developers.com/showthread.php?t=2137743)

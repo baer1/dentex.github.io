@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "YouTube Downloader for Android"
+title: "YouTube Downloader Release Notes"
 date: 2014-02-12 19:30
 comments: true
 sharing: true
@@ -8,10 +8,6 @@ footer: true
 description: YouTube Downloader for Android - a free and ad-free app
 keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader, release notes
 ---
-## Release Notes:
-
-## LICENSE
-
     YouTube Downloader for Android 
     Copyright (C) 2012-2014 Samuele Rini
 
@@ -20,10 +16,13 @@ keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, 
     You, the user, accept the full responsibility for the usage of this application, 
     excluding the developer from any liability about any consequence that may derive. 
     Thus, this application has to be considered as a mere technical service provider.
+    Any material downloaded or otherwise obtained through this Android app is done
+    at your own risk and discretion and you will be solely responsible for any damage 
+    or loss of data that results from the downloading or use of any such material.
 
-## OPEN SOURCE LICENSES
+## CREDITS
 
-    Credits for the custom download manager to Hiroshi Matsunaga (matsuhiro): 
+    Custom download manager to Hiroshi Matsunaga (matsuhiro): 
     https://github.com/matsuhiro/AndroidDownloadManger (released "unlicensed"). 
      
     The FFmpeg binary (http://www.ffmpeg.org/index.html),  
