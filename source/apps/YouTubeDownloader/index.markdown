@@ -14,15 +14,15 @@ keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, 
 
 ![YTD](/images/apps/128x128-ic_launcher_ytd_mod-web.png)
 
-`versionCode="80"`
+`versionCode="81"`
 
-`versionName="3.6.4"`
+`versionName="3.7"`
 
 Download link to [LATEST APK](http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk)
 
-MD5 checksum: `26b759f958b3d92929ad013d6428be78`
+MD5 checksum: `bed0de8973fff4a913f34db7bba054c5`
 
-SHA1 checksum: `ed08340fc9045ba65e6ab3ba12216c087902b031`
+SHA1 checksum: `7ffdc5ad17a110fac6092e41432fe234274ed623`
 
 ## **YouTube Downloader for Android**
 ## **Copyright (C) 2012-2014 Samuele Rini**
@@ -70,90 +70,94 @@ Are not supported for download all video that:
 
 ## CREDITS
 
-    Custom download manager to Hiroshi Matsunaga (matsuhiro): 
-    https://github.com/matsuhiro/AndroidDownloadManger (released "unlicensed"). 
-     
-    The FFmpeg binary (http://www.ffmpeg.org/index.html),  
-    used for the audio extraction feature, is released under the LGPL-3.0. 
-    (FFmpeg version 2.1.1 Copyright (C) 2000-2013 the FFmpeg developers) 
-     
-    The Android-filechooser library is released under the MIT license. 
-    (Android-filechooser Copyright (C) 2012 Hai Bison) 
-     
-    Launcher and notification icons by Sam Plane: http://samplane123.deviantart.com/, 
-    released under the CC BY-NC-ND (http://creativecommons.org/licenses/by-nc-nd/3.0) 
-     
-    The SlidingMenu library is released under the Apache License. 
-    (Copyright (C) 2012 Jeremy Feinstein) 
-     
-    The liblame library, used to compile FFmpeg, is released under the LGPL. 
+    Credits for the custom download manager to Hiroshi Matsunaga (matsuhiro): 
+    https://github.com/matsuhiro/AndroidDownloadManger
+    (released "unlicensed"). 
+    
+    The FFmpeg binary (http://www.ffmpeg.org/index.html), 
+    used for the audio extraction feature, is released under the LGPL-3.0.
+    (FFmpeg version 2.1.1 Copyright (C) 2000-2013 the FFmpeg developers)
+    
+    The Android-filechooser library is released under the MIT license.
+    (Android-filechooser Copyright (C) 2012 Hai Bison)
+    
+    Launcher and notification icons by Sam Plane: 
+    http://samplane123.deviantart.com/, released under the CC BY-NC-ND 
+    (http://creativecommons.org/licenses/by-nc-nd/3.0)
+    
+    The SlidingMenu library is released under the Apache License.
+    (Copyright (C) 2012 Jeremy Feinstein)
+    
+    The liblame library, used to compile FFmpeg, is released under the LGPL.
     A GitHub project, https://github.com/intervigilium/liblame, 
-    has been used to compile the lame libraries for Android. 
-    (liblame Copyright (C) 2010 Ethan Chen) 
-    (LAME Copyright (C) 1999-2007 The LAME Project, 
-    Copyright (C) 1999-2001 Mark Taylor, 
-    Copyright (C) 1998 Micheal Cheng) 
-    (mpglib Copyright (C) 1995-1997 Michael Hipp) 
-     
-    YTD`s mp3 tags are written with MyID3: a Java ID3 Tag Library 
-    (http://www.fightingquaker.com/myid3 and 
-    https://sites.google.com/site/eternalsandbox/myid3-for-android) 
-    released under the Apache license, as its dependency Jakarta Regexp library. 
-    (MyID3 Copyright (C) 2008 Charles M. Chen, 
-    adapted for Android by Romulus Urakagi Ts`ai) 
-     
-    Picasso: Image downloading and caching library - Copyright 2013 Square, Inc.
-    http://square.github.io/picasso/ 
-     
-    Crouton library: 
-    Copyright (C) 2012-2013 Benjamin Weiss and 
-    Copyright (C) 2012 Neofonie Mobile GmbH, 
-    as modified by Prashant Adesara
-    https://github.com/prashantadesara/CroutonExample
-    released under the Apache License 
-     
-#### Code excerpts Licenses 
-     
-    Stack Overflow (http://stackoverflow.com), 
-    a question and answer site for programmers where all the content is CC BY-SA 3.0 licensed 
-    (see http://creativecommons.org/licenses/by-sa/3.0) 
-     
-    Observer.java - reference: https://gist.github.com/shirou/659180 
-     
-    Utils.getCpuInfo(): 
-    http://www.roman10.net/how-to-get-cpu-information-on-android/
-    by Liu Feipeng 
-     
+    has been used to compile the lame libraries for Android.
+    (liblame Copyright (C) 2010 Ethan Chen)
+    (LAME Copyright (C) 1999-2007 The LAME Project,
+    Copyright (C) 1999-2001 Mark Taylor,
+    Copyright (C) 1998 Micheal Cheng)
+    (mpglib Copyright (C) 1995-1997 Michael Hipp)
+    
+    Audio tags editing library: Jaudiotagger by Paul Taylor, released under the LGPL.
+     - http://www.jthink.net/jaudiotagger/index.jsp
+     - Copyright (C) 2004-2007 JThink Ltd
+    
+    Picasso: Image downloading and caching library
+     - Copyright 2013 Square, Inc. - http://square.github.io/picasso/
+    
+    Crouton library: Copyright (C) 2012-2013 Benjamin Weiss and 
+    Copyright (C) 2012 Neofonie Mobile GmbH, as modified by Prashant Adesara 
+	 - https://github.com/prashantadesara/CroutonExample 
+	 - released under the Apache License
+    
+    
+### Code excerpts Licenses
+    
+    Stack Overflow (http://stackoverflow.com), a question and answer site for programmers where all 
+    the content is CC BY-SA 3.0 licensed (see http://creativecommons.org/licenses/by-sa/3.0)
+    
+    Utils.getCpuInfo(): http://www.roman10.net/how-to-get-cpu-information-on-android/
+     - by Liu Feipeng
+    
     Utils.scanMedia(...): 
     http://www.grokkingandroid.com/adding-files-to-androids-media-library-using-the-mediascanner/
-    by Wolfram Rittmeyer 
-     
-    DashboardAdapter.java and DashboardListItem.java: 
-    code adapted from https://github.com/survivingwithandroid/Surviving-with-android/
-    by Francesco Azzola (JFrankie) 
-     
+     - by Wolfram Rittmeyer
+    
+    DashboardAdapter.java and DashboardListItem.java: code adapted from 
+    https://github.com/survivingwithandroid/Surviving-with-android/ 
+     - by Francesco Azzola (JFrankie)
+    
     Rhino.jar: open-source implementation of JavaScript written entirely in Java; 
-    https://developer.mozilla.org/en-US/docs/Rhino
-    license: http://www.mozilla.org/MPL/2.0/ 
-     
-    Javascript function `decryptSignature` and reference for the `AO HQ hack` 
-    from the Greasemonkey script http://userscripts.org/scripts/show/25105 
-    (MIT License) - by Gantt 
-     
-    QueueThread.java - reference: 
-    http://mindtherobot.com/blog/159/android-guts-intro-to-loopers-and-handlers/ 
-    by Ivan Memruk 
+    https://developer.mozilla.org/en-US/docs/Rhino 
+     - license: http://www.mozilla.org/MPL/2.0/
+    
+    Javascript function "decryptSignature" and reference for the "AO HQ hack" 
+    from the Greasemonkey script 
+    http://userscripts.org/scripts/show/25105 (MIT License) - by Gantt
+    
+    QueueThread.java -  
+    reference: http://mindtherobot.com/blog/159/android-guts-intro-to-loopers-and-handlers/
+    by Ivan Memruk
+    
+    SHA1 file checksum method: http://www.rgagnon.com/javadetails/java-0416.html
+    CC BY-NC-SA 2.5 CA licensed (see http://creativecommons.org/licenses/by-nc-sa/2.5/ca/)
 
     *Note:*
     the device-framed screenshots in the project's directory have 
     been generated with the "Device Frame Generator" Android App by 
     Prateek Srivastava, available at 
-    <https://github.com/f2prateek/Device-Frame-Generator/>.
+    https://github.com/f2prateek/Device-Frame-Generator/
     The generated artwork is released ander the "Creative Commons 
     Attribution 3.0 Unported" license (CC BY).
 
 
 ## CHANGELOG
+
+     v3.7 - Mar 05 2014
+    -----------------------------------
+    [x] moved to new servers (with revised update process)
+    [x] fixed a bug on removing audio or video files after extraction/conversion
+    [x] new FFmpeg builds from latest v2.1.3
+    [x] YouTube preview thumb as mp3 album art (Barry Williams' idea)
     
      v3.6.4 - Jan 27 2014 
     ----------------------------------- 
@@ -245,7 +249,7 @@ Are not supported for download all video that:
     ----------------------------------- 
     [x] option to auto-enqueue FFmpeg tasks on downloads completion 
     [x] support for FLV video import into Dashboard 
-    [x] support for video-only and audio-only "secondary" streams from YouTube (experimental) 
+    [x] support for video-only and audio-only "secondary" streams from YouTube
     [x] various bug fixes 
      
      v3.0.2 - Oct 11 2013 
