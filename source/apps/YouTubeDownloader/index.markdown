@@ -18,7 +18,7 @@ keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, 
 
 `versionName="3.6.4"`
 
-apk download link: [dentex.youtube.downloader_v3.6.4.apk](https://sourceforge.net/projects/ytdownloader/files/latest/download)
+Download link to [LATEST APK](http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk)
 
 MD5 checksum: `26b759f958b3d92929ad013d6428be78`
 
