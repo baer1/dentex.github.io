@@ -14,9 +14,9 @@ keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, 
 
 ![YTD](/images/apps/128x128-ic_launcher_ytd_mod-web.png)
 
-`versionCode="81"`
+`versionCode="82"`
 
-`versionName="3.7"`
+`versionName="3.7.1"`
 
 Download link to [LATEST APK](http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk)
 
