@@ -12,7 +12,7 @@ keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, 
 ###(and extract/convert audio to mp3). 
 ####For Android 4+
 
-![YTD](/images/apps/128x128-ic_launcher_ytd_mod-web.png)
+![YTD](/images/apps/ytd.png)
 
 `versionCode="83"`
 
