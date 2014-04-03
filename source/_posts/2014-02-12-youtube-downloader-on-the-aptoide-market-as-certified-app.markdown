@@ -3,7 +3,7 @@ layout: post
 title: "YouTube Downloader on the Aptoide market as certified app"
 date: 2014-02-12 17:37:44 +0100
 comments: true
-categories: [YTD news]
+categories: [News]
 description: YouTube Downloader for Android - a free and ad-free app
 keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader, market, Aptoide
 ---

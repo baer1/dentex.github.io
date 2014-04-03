@@ -8,6 +8,9 @@ footer: true
 description: YouTube Downloader for Android - a free and ad-free app
 keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader
 ---
+##This app has been *DISCONTINUED*
+Please see [Android Media Downloader](/apps/androidmediadownloader)
+
 ###Android app to download YouTube video
 ###(and extract/convert audio to mp3). 
 ####For Android 4+
