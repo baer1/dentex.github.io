@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://dentex.github.io/blog/2013-04-26/YTD-v2.0+development/</loc>
-        <lastmod>2014-02-01T18:32:54+01:00</lastmod>
+        <loc>http://dentex.github.io/blog/2013-04-26/YTD-v2.0-development/</loc>
+        <lastmod>2014-04-03T15:48:03+02:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2013-05-13/YTD-from-v2-0-to-v2-2/</loc>
@@ -48,7 +48,7 @@
     </url>
     <url>
         <loc>http://dentex.github.io/blog/archives/</loc>
-        <lastmod>2014-04-03T15:34:29+02:00</lastmod>
+        <lastmod>2014-04-03T15:48:03+02:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/robots.txt</loc>
@@ -76,6 +76,6 @@
     </url>
     <url>
         <loc>http://dentex.github.io/</loc>
-        <lastmod>2014-04-03T15:34:29+02:00</lastmod>
+        <lastmod>2014-04-03T15:48:03+02:00</lastmod>
     </url>
 </urlset>

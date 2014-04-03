@@ -4,7 +4,7 @@
   <title><![CDATA[Category: WP-imported | dentex's blog]]></title>
   <link href="http://dentex.github.io/blog/categories/wp-imported/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-04-03T15:44:19+02:00</updated>
+  <updated>2014-04-03T15:48:13+02:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -66,16 +66,16 @@
   
   <entry>
     <title type="html"><![CDATA[YTD v2.0 Development]]></title>
-    <link href="http://dentex.github.io/blog/2013-04-26/YTD-v2.0+development/"/>
+    <link href="http://dentex.github.io/blog/2013-04-26/YTD-v2.0-development/"/>
     <updated>2013-04-26T19:02:05+02:00</updated>
-    <id>http://dentex.github.io/blog/2013-04-26/YTD-v2.0 development</id>
+    <id>http://dentex.github.io/blog/2013-04-26/YTD-v2.0-development</id>
     <content type="html"><![CDATA[<p>The development of YTD version 2.0 is slowly coming to the end!</p>
 
 <p>Today I finished the implementation of BugSense to keep track of application&rsquo;s Crashes from the next version&rsquo;s user base, and finally I added a progress bar into the notification for the FFmpeg audio jobs in progress.</p>
 
 <p>Neat.</p>
 
-<p>&hellip;from the latest GitHub commits logs:</p>
+<p>&hellip;from the latest commits logs:</p>
 
 <ul>
 <li>implemented BugSense (www.bugsense.com)</li>
@@ -83,12 +83,14 @@
 <li>moved FFmpeg jobs to own thread</li>
 <li>new screenshots</li>
 <li>changed README builder</li>
-<li>improved error handling for FFmpeg process; implemented &ldquo;remove video&rdquo; pref</li>
+<li>improved error handling for FFmpeg process</li>
+<li>implemented &ldquo;remove video&rdquo; pref</li>
 <li>tutorials to own menu; audio extraction tutorial entry</li>
 <li>finished sound/vibration/flash notification option</li>
 <li>fix FC with no audio extraction enabled (due to NullPointer for the audioConfirm checkbox)</li>
 <li>starting work for ring/vibration/flash notification setting</li>
-<li>fixed media scan; reorganized code credits</li>
+<li>fixed media scan</li>
+<li>reorganized code credits</li>
 <li>adding confirmation dialog checkbox for audio jobs</li>
 </ul>
 
