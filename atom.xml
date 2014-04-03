@@ -4,7 +4,7 @@
   <title><![CDATA[dentex's blog]]></title>
   <link href="http://dentex.github.io/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-03-29T18:02:55+01:00</updated>
+  <updated>2014-04-03T15:44:19+02:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Introducing Android Media Downloader]]></title>
+    <link href="http://dentex.github.io/blog/2014-04-03/introducing-android-media-downloader/"/>
+    <updated>2014-04-03T15:22:10+02:00</updated>
+    <id>http://dentex.github.io/blog/2014-04-03/introducing-android-media-downloader</id>
+    <content type="html"><![CDATA[<p>Check out my new app for Android:</p>
+
+<p><a href="http://dentex.github.io/apps/androidmediadownloader"><img src="http://dentex.github.io/images/apps/AMD_banner.jpg" alt="AMD_banner" /></a></p>
+
+<p>It&rsquo;s free and without ads. If you like it, please comment / rate it!</p>
+
+<p>Get it on Play:</p>
+
+<p><a href="https://play.google.com/store/apps/details?id=dentex.video.downloader"><img src="http://dentex.github.io/images/others/android-app-on-google-play.png" alt="Play_link" /></a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[YouTube Downloader on the Aptoide Market as Certified App]]></title>
