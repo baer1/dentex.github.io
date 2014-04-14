@@ -8,10 +8,7 @@ footer: true
 description: YouTube Downloader for Android - a free and ad-free app
 keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader
 ---
-##This app has been *DISCONTINUED*
-Please see [Android Media Downloader](/apps/androidmediadownloader)
-
-###Android app to download YouTube video
+###Android app to download YouTube videos
 ###(and extract/convert audio to mp3). 
 ####For Android 4+
 
@@ -21,7 +18,15 @@ Please see [Android Media Downloader](/apps/androidmediadownloader)
 
 `versionName="3.7.2"`
 
-Download link to [LATEST APK](http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk)
+Download latest APK [from this blog](http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk)
+
+or take it from
+
+[![amazon_link](/images/others/amazon-icon.png)](http://www.amazon.com/gp/product/B00BGF3LFE)
+
+or
+
+[![aptoide_link](/images/others/aptoide_logo.png)](http://dentex.store.aptoide.com/app/market/dentex.youtube.downloader/80/5031650/YouTube%20Downloader)
 
 MD5 checksum: `1662dcd8e54ff84a4c13d27b8ba06118`
 
