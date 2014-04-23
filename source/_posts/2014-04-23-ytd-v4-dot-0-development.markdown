@@ -9,8 +9,15 @@ description: YouTube Downloader for Android - a free and ad-free app
 keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader
 ---
 YouTube Downloader version **4.0** development is almost finished.
-You can follow the development discussion (and download also a Beta) on the XDA forum:   
-http://forum.xda-developers.com/showthread.php?t=2335450
+You can follow the development discussion (and download also a Beta) on the [XDA forum](http://forum.xda-developers.com/showthread.php?t=2335450)
+
+For the moment, the change-log is:
+
+    v4.0
+    -----------------------------------
+    [x] new UI
+    [x] integrated search
+    [x] direct 1080p, 480p and mp3 downloads 
 
 This is how this version looks like:
 
