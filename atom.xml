@@ -4,7 +4,7 @@
   <title><![CDATA[dentex's blog]]></title>
   <link href="http://dentex.github.io/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-04-18T20:18:17+02:00</updated>
+  <updated>2014-04-23T12:07:26+02:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[YTD v4.0 Development]]></title>
+    <link href="http://dentex.github.io/blog/2014-04-23/ytd-v4-dot-0-development/"/>
+    <updated>2014-04-23T11:53:57+02:00</updated>
+    <id>http://dentex.github.io/blog/2014-04-23/ytd-v4-dot-0-development</id>
+    <content type="html"><![CDATA[<p>YouTube Downloader version <strong>4.0</strong> development is almost finished.
+You can follow the development discussion (and download also a Beta) on the XDA forum: <br/>
+<a href="http://forum.xda-developers.com/showthread.php?t=2335450">http://forum.xda-developers.com/showthread.php?t=2335450</a></p>
+
+<p>This is how this version looks like:</p>
+
+<p><img class="4-1" src="http://dentex.github.io/images/screenshots/YTD_4.0/1.png" width="360">
+<img class="4-2" src="http://dentex.github.io/images/screenshots/YTD_4.0/2.png" width="360">
+<img class="4-3" src="http://dentex.github.io/images/screenshots/YTD_4.0/3.png" width="360">
+<img class="4-4" src="http://dentex.github.io/images/screenshots/YTD_4.0/4.png" width="360"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Where to Download YTD]]></title>
+    <link href="http://dentex.github.io/blog/2014-04-23/where-to-download-ytd/"/>
+    <updated>2014-04-23T11:45:16+02:00</updated>
+    <id>http://dentex.github.io/blog/2014-04-23/where-to-download-ytd</id>
+    <content type="html"><![CDATA[<p>Apart from <a href="http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk">this blog</a> and the <a href="http://dentex.store.aptoide.com/app/market/dentex.youtube.downloader/83/5529622/YouTube%20Downloader">Aptoide</a> store, <strong>YouTube Downloader</strong> is available for download at the <a href="http://apps.opera.com/youtube_downloader_and_audio_converterextractor.html">Opera Mobile Store</a> and the <a href="http://www.amazon.com/gp/product/B00BGF3LFE">Amazon Appstore</a>.</p>
+
+<p><a href="http://apps.opera.com/youtube_downloader_and_audio_converterextractor.html"><img src="http://dentex.github.io/images/others/opera_badge.png" alt="opera_link" /></a></p>
+
+<p><a href="http://www.amazon.com/gp/product/B00BGF3LFE"><img src="http://dentex.github.io/images/others/amazon-icon.png" alt="amazon_link" /></a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[YouTube Downloader on the Aptoide Market as Certified App]]></title>
