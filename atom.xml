@@ -4,7 +4,7 @@
   <title><![CDATA[dentex's blog]]></title>
   <link href="http://dentex.github.io/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-04-24T17:51:18+02:00</updated>
+  <updated>2014-04-24T17:52:42+02:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -18,10 +18,11 @@
     <link href="http://dentex.github.io/blog/2014-04-24/ytds-second-beta-for-v4-dot-0/"/>
     <updated>2014-04-24T17:47:00+02:00</updated>
     <id>http://dentex.github.io/blog/2014-04-24/ytds-second-beta-for-v4-dot-0</id>
-    <content type="html"><![CDATA[<p>2nd Beta for YTD v4.0 is available for download <a href="http://dentex.github.io/files/apk/beta/dentex.youtube.downloader_v4.0_Beta-2.apk">HERE</a>
-Try it out and follow the development chat as always on <a href="http://forum.xda-developers.com/showthread.php?t=2335450">XDA</a>.</p>
+    <content type="html"><![CDATA[<p>2nd Beta for YTD v4.0 is available for download <a href="http://dentex.github.io/files/apk/beta/dentex.youtube.downloader_v4.0_Beta-2.apk">HERE</a>.</p>
 
-<p>changelog:</p>
+<p>Try it out! &hellip;And follow the development chat as always on <a href="http://forum.xda-developers.com/showthread.php?t=2335450">XDA</a>.</p>
+
+<p>Changelog:</p>
 
 <pre><code>v4.0 BETA-2
 -----------------------------------
