@@ -3,6 +3,7 @@ layout: post
 title: "YTD v4.0 development"
 date: 2014-04-23 11:53:57 +0200
 comments: true
+categories: [News]
 sharing: true
 footer: true
 description: YouTube Downloader for Android - a free and ad-free app

@@ -3,6 +3,7 @@ layout: post
 title: "YTD's second Beta for v4.0"
 date: 2014-04-24 17:47:00 +0200
 comments: true
+categories: [News]
 sharing: true
 footer: true
 description: YouTube Downloader for Android - a free and ad-free app
