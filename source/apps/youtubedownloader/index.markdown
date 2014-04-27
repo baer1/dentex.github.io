@@ -160,6 +160,15 @@ Are not supported for download all video that:
 
 ## CHANGELOG
 
+    v4.0 - Apr 27 2014
+    -----------------------------------
+    [x] new UI
+    [x] integrated search
+    [x] direct 1080p, 480p and mp3 downloads
+    [x] grab direct-mp3\'s quality from the Auto-extract audio setting (dafnis\' idea)
+    [x] improved/fixed scraping
+    [x] Thai  and Japanese translation (as WIP)
+
      v3.7.2 - Mar 21 2014
     -----------------------------------
     [x] maintenance update
