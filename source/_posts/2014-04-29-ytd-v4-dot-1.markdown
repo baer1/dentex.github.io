@@ -1,0 +1,20 @@
+---
+layout: post
+title: "YTD v4.1"
+date: 2014-04-29 20:48:22 +0200
+comments: true
+categories: [News]
+sharing: true
+footer: true
+description: YouTube Downloader for Android - a free and ad-free app
+keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader
+---
+YouTube Downloader version 4.1 is already available (after a small transition through v4.0).
+
+Changelog:
+
+     v4.1 - Apr 29 2014
+    -----------------------------------
+    [x] light theme fixed / theme-chooser restored
+    [x] default ID3 tags for direct-mp3 downloads (mrdoug\'s idea)
+    [x] edit mp3\'s ID3 tags option into Dashboard

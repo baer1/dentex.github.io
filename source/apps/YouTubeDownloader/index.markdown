@@ -172,6 +172,12 @@ Are not supported for download all video that:
 
 ## CHANGELOG
 
+     v4.1 - Apr 29 2014
+    -----------------------------------
+    [x] light theme fixed / theme-chooser restored
+    [x] default ID3 tags for direct-mp3 downloads (mrdoug's idea)
+    [x] edit mp3's ID3 tags option into Dashboard
+
      v4.0 - Apr 27 2014
     -----------------------------------
     [x] new UI
