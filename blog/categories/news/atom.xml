@@ -4,7 +4,7 @@
   <title><![CDATA[Category: News | dentex's blog]]></title>
   <link href="http://dentex.github.io/blog/categories/news/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-04-29T20:45:01+02:00</updated>
+  <updated>2014-04-29T20:52:47+02:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[YTD v4.1]]></title>
+    <link href="http://dentex.github.io/blog/2014-04-29/ytd-v4-dot-1/"/>
+    <updated>2014-04-29T20:48:22+02:00</updated>
+    <id>http://dentex.github.io/blog/2014-04-29/ytd-v4-dot-1</id>
+    <content type="html"><![CDATA[<p>YouTube Downloader version 4.1 is already available (after a small transition through v4.0).</p>
+
+<p>Changelog:</p>
+
+<pre><code> v4.1 - Apr 29 2014
+-----------------------------------
+[x] light theme fixed / theme-chooser restored
+[x] default ID3 tags for direct-mp3 downloads (mrdoug\'s idea)
+[x] edit mp3\'s ID3 tags option into Dashboard
+</code></pre>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[YTD's Second Beta for v4.0]]></title>
