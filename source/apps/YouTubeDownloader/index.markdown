@@ -14,9 +14,9 @@ keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, 
 
 ![YTD](/images/apps/ytd.png)
 
-`versionCode="84"`
+`versionCode="85"`
 
-`versionName="4.0"`
+`versionName="4.1"`
 
 Download the latest APK from [THIS BLOG](http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk)
 
@@ -28,9 +28,9 @@ or take it from anyone of this sites:
 
 [![aptoide_link](/images/others/aptoide_logo.png)](http://dentex.store.aptoide.com/app/market/dentex.youtube.downloader/83/5529622/YouTube%20Downloader)
 
-MD5 checksum: `a5a646abf9a44d05f7c9afcc6212a93f`
+MD5 checksum: `aa3a95495f56e660c121c07ed1ccbea5`
 
-SHA1 checksum: `526b251fc19054af25ccae4a018937d9f682600d`
+SHA1 checksum: `f0de4ccca336d056ac452afd43d119395a2a461f`
 
 ## **YouTube Downloader for Android**
 ## **Copyright (C) 2012-2014 Samuele Rini**
@@ -77,81 +77,93 @@ Are not supported for download all video that:
 [XDA-developers Thread](http://forum.xda-developers.com/showthread.php?t=2137743)
 
 ## CREDITS
-
+    
     Credits for the custom download manager to Hiroshi Matsunaga (matsuhiro): 
-    https://github.com/matsuhiro/AndroidDownloadManger
-    (released "unlicensed"). 
+    https://github.com/matsuhiro/AndroidDownloadManger (released "unlicensed"). 
     
     The FFmpeg binary (http://www.ffmpeg.org/index.html), 
     used for the audio extraction feature, is released under the LGPL-3.0.
-    (FFmpeg version 2.1.1 Copyright (C) 2000-2013 the FFmpeg developers)
+    (FFmpeg version 2.1.3 Copyright &#169; 2000-2014 the FFmpeg developers)
     
     The Android-filechooser library is released under the MIT license.
-    (Android-filechooser Copyright (C) 2012 Hai Bison)
+    (Android-filechooser Copyright &#169; 2012 Hai Bison)
+    Updated version at https://code.google.com/p/an-huu/
     
     Launcher and notification icons by Sam Plane: 
     http://samplane123.deviantart.com/, released under the CC BY-NC-ND 
     (http://creativecommons.org/licenses/by-nc-nd/3.0)
     
-    The SlidingMenu library is released under the Apache License.
-    (Copyright (C) 2012 Jeremy Feinstein)
+    Search and results saving adapted from the project at 
+    https://github.com/falikk/MediaSearch by Yaroslav Maslov
+    (released "unlicensed").
+    
+    The SlidingMenu library is released under the Apache License:
+    https://github.com/jfeinstein10/SlidingMenu
+    (Copyright &#169; 2012 Jeremy Feinstein)
     
     The liblame library, used to compile FFmpeg, is released under the LGPL.
     A GitHub project, https://github.com/intervigilium/liblame, 
     has been used to compile the lame libraries for Android.
-    (liblame Copyright (C) 2010 Ethan Chen)
-    (LAME Copyright (C) 1999-2007 The LAME Project,
-    Copyright (C) 1999-2001 Mark Taylor,
-    Copyright (C) 1998 Micheal Cheng)
-    (mpglib Copyright (C) 1995-1997 Michael Hipp)
+    (liblame Copyright &#169; 2010 Ethan Chen)
+    (LAME Copyright &#169; 1999-2007 The LAME Project,
+    Copyright &#169; 1999-2001 Mark Taylor,
+    Copyright &#169; 1998 Micheal Cheng)
+    (mpglib Copyright &#169; 1995-1997 Michael Hipp)
     
     Audio tags editing library: Jaudiotagger by Paul Taylor, released under the LGPL.
-     - http://www.jthink.net/jaudiotagger/index.jsp
-     - Copyright (C) 2004-2007 JThink Ltd
+    http://www.jthink.net/jaudiotagger/index.jsp 
+    Copyright &#169; 2004-2007 JThink Ltd
     
     Picasso: Image downloading and caching library
-     - Copyright 2013 Square, Inc. - http://square.github.io/picasso/
+    Copyright 2013 Square, Inc. http://square.github.io/picasso/
     
-    Crouton library: Copyright (C) 2012-2013 Benjamin Weiss and 
-    Copyright (C) 2012 Neofonie Mobile GmbH, as modified by Prashant Adesara 
-	 - https://github.com/prashantadesara/CroutonExample 
-	 - released under the Apache License
+    Crouton library: Copyright &#169; 2012-2013 Benjamin Weiss and 
+    Copyright &#169; 2012 Neofonie Mobile GmbH, as modified by Prashant Adesara 
+    https://github.com/prashantadesara/CroutonExample 
+    released under the Apache License
     
+    Gold Medal icon by Andy, from http://psdblast.com/
     
-### Code excerpts Licenses
+    PagerSlidingTabStrip layout: https://github.com/astuetz/PagerSlidingTabStrip
+    Copyright &#169; 2013 Andreas Stuetz, released under the Apache License.
     
-    Stack Overflow (http://stackoverflow.com), a question and answer site for programmers where all 
-    the content is CC BY-SA 3.0 licensed (see http://creativecommons.org/licenses/by-sa/3.0)
+## Code excerpts Licenses
     
-    Utils.getCpuInfo(): http://www.roman10.net/how-to-get-cpu-information-on-android/
-     - by Liu Feipeng
+    Stack Overflow (http://stackoverflow.com): 
+    a question and answer site for programmers where all the content is CC BY-SA 3.0 licensed 
+    (see http://creativecommons.org/licenses/by-sa/3.0)
     
-    Utils.scanMedia(...): 
+    Utils.getCpuInfo(): 
+    http://www.roman10.net/how-to-get-cpu-information-on-android/
+    by Liu Feipeng
+    
+    Utils.scanMedia(&#8230;): 
     http://www.grokkingandroid.com/adding-files-to-androids-media-library-using-the-mediascanner/
-     - by Wolfram Rittmeyer
+    by Wolfram Rittmeyer
     
     DashboardAdapter.java and DashboardListItem.java: code adapted from 
     https://github.com/survivingwithandroid/Surviving-with-android/ 
-     - by Francesco Azzola (JFrankie)
+    by Francesco Azzola (JFrankie)
     
     Rhino.jar: open-source implementation of JavaScript written entirely in Java; 
     https://developer.mozilla.org/en-US/docs/Rhino 
-     - license: http://www.mozilla.org/MPL/2.0/
+    license: http://www.mozilla.org/MPL/2.0/
     
-    Javascript function "decryptSignature" and reference for the "AO HQ hack" 
-    from the Greasemonkey script 
-    http://userscripts.org/scripts/show/25105 (MIT License) - by Gantt
+    Javascript function \"decryptSignature\" and reference for the \"AO HQ hack\" 
+    from the Greasemonkey script http://userscripts.org/scripts/show/25105 
+    (MIT License), by Gantt
     
-    QueueThread.java -  
-    reference: http://mindtherobot.com/blog/159/android-guts-intro-to-loopers-and-handlers/
+    QueueThread.java reference: 
+    http://mindtherobot.com/blog/159/android-guts-intro-to-loopers-and-handlers/
     by Ivan Memruk
     
     SHA1 file checksum method: http://www.rgagnon.com/javadetails/java-0416.html
     CC BY-NC-SA 2.5 CA licensed (see http://creativecommons.org/licenses/by-nc-sa/2.5/ca/)
 
-    *Note:*
-    the device-framed screenshots in the project's directory have 
-    been generated with the "Device Frame Generator" Android App by 
+#### Note
+
+    Many device-framed screenshots visible have been
+    generated with the "Device Frame Generator" Android App by 
     Prateek Srivastava, available at 
     https://github.com/f2prateek/Device-Frame-Generator/
     The generated artwork is released ander the "Creative Commons 
