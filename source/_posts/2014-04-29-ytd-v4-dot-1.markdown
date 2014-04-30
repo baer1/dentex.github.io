@@ -27,3 +27,7 @@ Changelog:
     [x] grab direct-mp3's quality from the Auto-extract audio setting (dafnis' idea)
     [x] improved/fixed scraping
     [x] Thai  and Japanese translation (as WIP)
+
+{% img 41-1 /images/screenshots/YTD_4.1/1_sf.png 360x600 %}
+{% img 41-2 /images/screenshots/YTD_4.1/2_ff.png 360x600 %}
+{% img 41-3 /images/screenshots/YTD_4.1/3_df.png 360x600 %}
