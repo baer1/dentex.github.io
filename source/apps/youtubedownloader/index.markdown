@@ -14,9 +14,9 @@ keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, 
 
 ![YTD](/images/apps/ytd.png)
 
-`versionCode="85"`
+`versionCode="86"`
 
-`versionName="4.1"`
+`versionName="4.1.1"`
 
 Download the latest APK from [THIS BLOG](http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk)
 
@@ -28,9 +28,9 @@ or take it from anyone of this sites:
 
 [![aptoide_link](/images/others/aptoide_logo.png)](http://dentex.store.aptoide.com/app/market/dentex.youtube.downloader/85/5568059/YouTube%20Downloader)
 
-MD5 checksum: `aa3a95495f56e660c121c07ed1ccbea5`
+MD5 checksum: `e8c92006782e03c7b22ca6143ee772d8`
 
-SHA1 checksum: `f0de4ccca336d056ac452afd43d119395a2a461f`
+SHA1 checksum: `aaa12aef6ed2b2308ac1a2ade2461d333557cb42`
 
 ## **YouTube Downloader for Android**
 ## **Copyright (C) 2012-2014 Samuele Rini**
@@ -50,7 +50,8 @@ then:
 - Use the Dashboard to interact with downloaded video (audio extraction/conversion/mux and file management).
 
 ##FEATURES
-- Download of YouTube videos (support for remote download to another PC via SSH);
+- [NEW] Search for YouTube videos whithin the app
+- Download locally (support for remote download to another PC via SSH);
 - Support for any format/quality available from YouTube;
 - Audio extraction/conversion to mp3 via item menu in the Dashboard;
 - Mux Audio- and Video-only streams into a complete video (to enjoy HD resolutions available as separated streams only);
@@ -171,6 +172,14 @@ Are not supported for download all video that:
 
 
 ## CHANGELOG
+
+     v4.1.1 - May 03 2014
+    -----------------------------------
+    [x] correct width for search and Dashboard-filter text fields
+    [x] correct tab selection when sharing links from other apps to YTD
+    [x] many updated and completed translations:
+        (Chinese, Czech, Dutch, German, Greek languages, Italian, 
+         Portuguese-Brazil, Russian, Slovak, Vietnamese) (thanks guys!)
 
      v4.1 - Apr 29 2014
     -----------------------------------
