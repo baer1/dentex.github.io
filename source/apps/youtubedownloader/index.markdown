@@ -14,9 +14,9 @@ keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, 
 
 ![YTD](/images/apps/ytd.png)
 
-`versionCode="86"`
+`versionCode="87"`
 
-`versionName="4.1.1"`
+`versionName="4.1.2"`
 
 Download the latest APK from [THIS BLOG](http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk)
 
@@ -28,9 +28,9 @@ or take it from anyone of this sites:
 
 [![aptoide_link](/images/others/aptoide_logo.png)](http://dentex.store.aptoide.com/app/market/dentex.youtube.downloader/86/5596189/YouTube%20Downloader)
 
-MD5 checksum: `e8c92006782e03c7b22ca6143ee772d8`
+MD5 checksum: `3c3a2c19d174df9d4d8164d22fdba069`
 
-SHA1 checksum: `aaa12aef6ed2b2308ac1a2ade2461d333557cb42`
+SHA1 checksum: `6520311d1d988172a2f00e0c9c2a6fe451413ef0`
 
 ## **YouTube Downloader for Android**
 ## **Copyright (C) 2012-2014 Samuele Rini**
@@ -172,6 +172,11 @@ Are not supported for download all video that:
 
 
 ## CHANGELOG
+
+     v4.1.2 - May 04 2014
+    -----------------------------------
+    [x] update fix 
+    [x] another tab selection fix
 
      v4.1.1 - May 03 2014
     -----------------------------------

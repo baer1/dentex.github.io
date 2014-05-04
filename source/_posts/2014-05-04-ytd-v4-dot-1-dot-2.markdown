@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "YTD v4.1.1"
-date: 2014-05-04 14:50:00 +0200
+title: "YTD v4.1.2"
+date: 2014-05-04 17:11:00 +0200
 comments: true
 categories: [News]
 sharing: true
@@ -9,9 +9,14 @@ footer: true
 description: YouTube Downloader for Android - a free and ad-free app
 keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader
 ---
-YouTube Downloader version 4.1.1 is available!
+YouTube Downloader version 4.1.2 is available!
 
 Changelog:
+
+     v4.1.2 - May 04 2014
+    -----------------------------------
+    [x] update fix 
+    [x] another tab selection fix
 
      v4.1.1 - May 03 2014
     -----------------------------------
