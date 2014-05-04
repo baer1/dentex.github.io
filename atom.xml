@@ -4,7 +4,7 @@
   <title><![CDATA[dentex's blog]]></title>
   <link href="http://dentex.github.io/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-05-04T18:02:56+02:00</updated>
+  <updated>2014-05-04T19:12:05+02:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -14,15 +14,20 @@
 
   
   <entry>
-    <title type="html"><![CDATA[YTD v4.1.1]]></title>
-    <link href="http://dentex.github.io/blog/2014-05-04/ytd-v4-dot-1-dot-1/"/>
-    <updated>2014-05-04T14:50:00+02:00</updated>
-    <id>http://dentex.github.io/blog/2014-05-04/ytd-v4-dot-1-dot-1</id>
-    <content type="html"><![CDATA[<p>YouTube Downloader version 4.1.1 is available!</p>
+    <title type="html"><![CDATA[YTD v4.1.2]]></title>
+    <link href="http://dentex.github.io/blog/2014-05-04/ytd-v4-dot-1-dot-2/"/>
+    <updated>2014-05-04T17:11:00+02:00</updated>
+    <id>http://dentex.github.io/blog/2014-05-04/ytd-v4-dot-1-dot-2</id>
+    <content type="html"><![CDATA[<p>YouTube Downloader version 4.1.2 is available!</p>
 
 <p>Changelog:</p>
 
-<pre><code> v4.1.1 - May 03 2014
+<pre><code> v4.1.2 - May 04 2014
+-----------------------------------
+[x] update fix 
+[x] another tab selection fix
+
+ v4.1.1 - May 03 2014
 -----------------------------------
 [x] correct width for search and Dashboard-filter text fields
 [x] correct tab selection when sharing links from other apps to YTD
