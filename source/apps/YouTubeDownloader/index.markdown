@@ -26,7 +26,7 @@ or take it from anyone of this sites:
 
 [![amazon_link](/images/others/amazon-icon.png)](http://www.amazon.com/gp/product/B00BGF3LFE)
 
-[![aptoide_link](/images/others/aptoide_logo.png)](http://dentex.store.aptoide.com/app/market/dentex.youtube.downloader/85/5568059/YouTube%20Downloader)
+[![aptoide_link](/images/others/aptoide_logo.png)](http://dentex.store.aptoide.com/app/market/dentex.youtube.downloader/86/5596189/YouTube%20Downloader)
 
 MD5 checksum: `e8c92006782e03c7b22ca6143ee772d8`
 
@@ -192,7 +192,7 @@ Are not supported for download all video that:
     [x] new UI
     [x] integrated search
     [x] direct 1080p, 480p and mp3 downloads
-    [x] grab direct-mp3\'s quality from the Auto-extract audio setting (dafnis\' idea)
+    [x] grab direct-mp3's quality from the Auto-extract audio setting (dafnis' idea)
     [x] improved/fixed scraping
     [x] Thai  and Japanese translation (as WIP)
 

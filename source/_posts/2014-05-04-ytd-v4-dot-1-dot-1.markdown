@@ -1,0 +1,22 @@
+---
+layout: post
+title: "YTD v4.1.1"
+date: 2014-04-29 20:48:22 +0200
+comments: true
+categories: [News]
+sharing: true
+footer: true
+description: YouTube Downloader for Android - a free and ad-free app
+keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader
+---
+YouTube Downloader version 4.1.1 is available!
+
+Changelog:
+
+     v4.1.1 - May 03 2014
+    -----------------------------------
+    [x] correct width for search and Dashboard-filter text fields
+    [x] correct tab selection when sharing links from other apps to YTD
+    [x] many updated and completed translations 
+        (Chinese, Czech, Dutch, German, Greek languages, Italian, 
+         Portuguese-Brazil, Russian, Slovak, Vietnamese) (thanks guys!)
