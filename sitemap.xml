@@ -2,92 +2,92 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://dentex.github.io/blog/2013-04-26/YTD-v2.0-development/</loc>
-        <lastmod>2014-04-03T15:48:03+02:00</lastmod>
+        <lastmod>2014-04-16T11:29:28+02:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2013-05-13/YTD-from-v2-0-to-v2-2/</loc>
-        <lastmod>2014-02-01T18:32:54+01:00</lastmod>
+        <lastmod>2014-01-31T14:49:19+01:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2013-07-08/YTD-v3-development/</loc>
-        <lastmod>2014-01-30T15:44:04+01:00</lastmod>
+        <lastmod>2014-01-31T09:39:14+01:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2013-10-11/YTD-v3/</loc>
-        <lastmod>2014-02-01T18:32:54+01:00</lastmod>
+        <lastmod>2014-01-31T15:24:27+01:00</lastmod>
     </url>
     <url>
         <loc>
             http://dentex.github.io/blog/2014-01-29/infographic-how-to-use-ytd-without-the-youtube-app/
         </loc>
-        <lastmod>2014-02-01T18:32:54+01:00</lastmod>
+        <lastmod>2014-01-31T14:47:33+01:00</lastmod>
     </url>
     <url>
         <loc>
             http://dentex.github.io/blog/2014-01-29/how-to-mux-combine-audio-and-video-with-ytd-dot-dot-dot/
         </loc>
-        <lastmod>2014-02-01T18:32:54+01:00</lastmod>
+        <lastmod>2014-01-31T15:31:18+01:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2014-01-31/jekyll-slash-octopress-blog-switch/</loc>
-        <lastmod>2014-02-01T18:32:54+01:00</lastmod>
+        <lastmod>2014-01-31T19:39:54+01:00</lastmod>
     </url>
     <url>
         <loc>
             http://dentex.github.io/blog/2014-02-12/youtube-downloader-on-the-aptoide-market-as-certified-app/
         </loc>
-        <lastmod>2014-05-05T09:14:25+02:00</lastmod>
+        <lastmod>2014-05-04T19:36:20+02:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2014-04-23/where-to-download-ytd/</loc>
-        <lastmod>2014-05-05T09:14:25+02:00</lastmod>
+        <lastmod>2014-05-04T19:36:21+02:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2014-04-23/ytd-v4-dot-0-development/</loc>
-        <lastmod>2014-04-27T20:57:47+02:00</lastmod>
+        <lastmod>2014-04-26T19:26:43+02:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2014-04-24/ytds-second-beta-for-v4-dot-0/</loc>
-        <lastmod>2014-04-27T20:57:47+02:00</lastmod>
+        <lastmod>2014-04-26T19:26:51+02:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2014-04-29/ytd-v4-dot-1/</loc>
-        <lastmod>2014-04-30T10:41:03+02:00</lastmod>
+        <lastmod>2014-05-01T17:56:47+02:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2014-05-04/ytd-v4-dot-1-dot-2/</loc>
-        <lastmod>2014-05-05T09:14:25+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dentex.github.io/screenshots/</loc>
-        <lastmod>2014-02-01T18:32:55+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dentex.github.io/blog/archives/</loc>
-        <lastmod>2014-05-05T09:14:25+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dentex.github.io/robots.txt</loc>
-        <lastmod>2014-01-29T19:35:49+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dentex.github.io/apps/</loc>
-        <lastmod>2014-04-27T20:57:47+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dentex.github.io/apps/youtubedownloader/</loc>
-        <lastmod>2014-05-05T09:14:25+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dentex.github.io/apps/youtubedownloader/eula.html</loc>
-        <lastmod>2014-02-14T16:27:31+01:00</lastmod>
+        <lastmod>2014-05-04T19:11:38+02:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/apps/YouTubeDownloader/</loc>
-        <lastmod>2014-05-05T09:14:25+02:00</lastmod>
+        <lastmod>2014-05-04T19:36:23+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dentex.github.io/apps/</loc>
+        <lastmod>2014-04-26T19:24:31+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dentex.github.io/apps/youtubedownloader/</loc>
+        <lastmod>2014-05-04T19:36:23+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dentex.github.io/apps/youtubedownloader/eula.html</loc>
+        <lastmod>2014-05-07T18:36:56+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dentex.github.io/screenshots/</loc>
+        <lastmod>2014-01-31T15:23:34+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dentex.github.io/robots.txt</loc>
+        <lastmod>2014-01-31T09:39:14+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dentex.github.io/blog/archives/</loc>
+        <lastmod>2014-05-04T19:36:21+02:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/</loc>
-        <lastmod>2014-05-05T09:14:25+02:00</lastmod>
+        <lastmod>2014-05-04T19:36:21+02:00</lastmod>
     </url>
 </urlset>
