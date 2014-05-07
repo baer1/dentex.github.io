@@ -31,7 +31,8 @@ PLEASE READ THIS DOCUMENT CAREFULLY BEFORE USING THIS SOFTWARE.
 
 ###4. Ownership
 This license provides You with limited rights to use the Software. I, Samuele Rini, (the "Licensor") retain all ownership, right, title and interest in, to and of the Software and all copies of it. All rights not specifically granted in this license, including domestic and international copyrights, are reserved by the Licensor.   
-"YouTube" is a trademark of Google Inc. YouTube © 2012 Google Inc. All rights reserved. This Software is not affiliated with or by any means approved by Google Inc.
+YouTube © 2012 Google Inc. All rights reserved. "YouTube" is a trademark of Google Inc. This Software is not affiliated with or by any means approved by Google Inc.    
+"Android" is a trademark of Google Inc.
 
 ###5. Restrictions on Use
 You shall not decompile, reverse engineer, disassemble, include in other software or use the Software for any commercial purposes. You shall not modify, alter, change or otherwise make any modification to the Software or create derivative works based upon the Software. You shall not rent, lease, resell, sub-license, assign, distribute or otherwise transfer the Software or this License. Any attempt to do so shall be void and of no effect.
