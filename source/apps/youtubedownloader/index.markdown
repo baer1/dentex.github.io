@@ -564,19 +564,3 @@ Are not supported for download all video that:
     [x] add quality suffix options 
     [x] file renaming options 
     -----------------------------------
-
-## TO-DO LIST
-
-	[ ] option to repack into 'm4a' for audio extr with 'aac' output
-	[ ] YouTube preview thumb as mp3 album art (Barry Wiliams)
-	[ ] download presets; OR, for 1080p only, option to download 
-		both AO and VO streams and auto-mux on completion
-	[ ] implement some other FFmpeg functions
-	[ ] support subtitles download
-	[ ] use icon/logo to identify codecs available 
-        (expand the custom ShareActivity adapter)
-	[ ] make the App tablet friendly
-	[ ] use custom DM for other download tasks 
-        (apk update, ffmpeg binary [wip - on hold])
-	[ ] dashboard option to include downloaded videos into backups 
-        (or make menu entry "archive")
