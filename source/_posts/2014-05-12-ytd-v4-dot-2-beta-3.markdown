@@ -1,0 +1,13 @@
+---
+layout: post
+title: "YTD v4.2 beta-3"
+date: 2014-05-12 20:07:48 +0200
+comments: true
+categories: [News]
+sharing: true
+footer: true
+description: YouTube Downloader for Android - a free and ad-free app
+keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader
+---
+A new Beta (number 3) for YTD v4.2 is available for download [HERE](http://dentex.github.io/files/apk/beta/dentex.youtube.downloader_v4.2_beta-3.apk).
+It features just some optimizations and bug fixes. Worth a try anyway. Stable version 4.2 is coming soon.
