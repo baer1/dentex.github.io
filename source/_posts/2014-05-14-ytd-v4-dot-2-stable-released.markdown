@@ -1,0 +1,22 @@
+---
+layout: post
+title: "YTD v4.2 stable released"
+date: 2014-05-14 17:56:19 +0200
+comments: true
+categories: [News]
+sharing: true
+footer: true
+description: YouTube Downloader for Android - a free and ad-free app
+keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader
+---
+YouTube Downloader version 4.2 is available (for the moment only from this blog; I'll update the external stores ASAP).
+
+Changelog:
+
+     v4.2 - May 14 2014
+    -----------------------------------
+    [x] more downloads requiring mux now get actually queued
+    [x] long running audio-extractions in background don't crash (may pause only) 
+    [x] formats list reorganized and other optimizations
+    [x] correct XDA thread link into About menu (thanks pandahunter)
+    [x] Khmer translation (as WIP)
