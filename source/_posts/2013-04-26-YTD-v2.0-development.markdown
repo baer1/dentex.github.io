@@ -4,8 +4,8 @@ title: YTD v2.0 development
 date: 2013-04-26 18:02:05 +0100
 comments: true
 categories: [WP-imported]
-description: YouTube Downloader for Android - a free and ad-free app
-keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader
+description: "YouTube Downloader for Android - a free and ad-free app"
+keywords: "YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader"
 ---
 
 The development of YTD version 2.0 is slowly coming to the end!

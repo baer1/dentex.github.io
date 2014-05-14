@@ -7,8 +7,8 @@ title: dentex's blog
 subtitle: Android apps and more (WIP) stuff
 author: Samuele Rini
 simple_search: http://google.com/search
-description: dentex's blog
-keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader
+description: "dentex's blog on YouTube Downloader for Android and more"
+keywords: "YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader, music, audio"
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -99,4 +99,9 @@ google_analytics_tracking_id: UA-40497864-3
 
 # Facebook Like
 facebook_like: false
+
+# add original link
+original_url_pre: "Original Link: "
+license_url: /license
+license_name: "CC BY-NC-SA 4.0"
 

@@ -6,8 +6,8 @@ comments: true
 categories: [News]
 sharing: true
 footer: true
-description: YouTube Downloader for Android - a free and ad-free app
-keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader
+description: "YouTube Downloader for Android - a free and ad-free app"
+keywords: "YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader"
 ---
 2nd Beta for YTD v4.0 is available for download [HERE](http://dentex.github.io/files/apk/beta/dentex.youtube.downloader_v4.0_Beta-2.apk).
 
