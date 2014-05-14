@@ -4,7 +4,7 @@
   <title><![CDATA[dentex's blog]]></title>
   <link href="http://dentex.github.io/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-05-14T17:52:35+02:00</updated>
+  <updated>2014-05-14T17:58:27+02:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[YTD v4.2 Stable Released]]></title>
+    <link href="http://dentex.github.io/blog/2014-05-14/ytd-v4-dot-2-stable-released/"/>
+    <updated>2014-05-14T17:56:19+02:00</updated>
+    <id>http://dentex.github.io/blog/2014-05-14/ytd-v4-dot-2-stable-released</id>
+    <content type="html"><![CDATA[<p>YouTube Downloader version 4.2 is available (for the moment only from this blog; I&rsquo;ll update the external stores ASAP).</p>
+
+<p>Changelog:</p>
+
+<pre><code> v4.2 - May 14 2014
+-----------------------------------
+[x] more downloads requiring mux now get actually queued
+[x] long running audio-extractions in background don't crash (may pause only) 
+[x] formats list reorganized and other optimizations
+[x] correct XDA thread link into About menu (thanks pandahunter)
+[x] Khmer translation (as WIP)
+</code></pre>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[YTD v4.2 Beta-3]]></title>
