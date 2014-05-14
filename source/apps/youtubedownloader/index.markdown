@@ -14,9 +14,9 @@ keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, 
 
 ![YTD](/images/apps/ytd.png)
 
-`versionCode="87"`
+`versionCode="88"`
 
-`versionName="4.1.2"`
+`versionName="4.2"`
 
 Download the latest APK from [THIS BLOG](http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk)
 
@@ -28,9 +28,9 @@ or take it from anyone of this sites:
 
 [![aptoide_link](/images/others/aptoide_logo.png)](http://dentex.store.aptoide.com/app/market/dentex.youtube.downloader/87/5596925/YouTube%20Downloader)
 
-MD5 checksum: `3c3a2c19d174df9d4d8164d22fdba069`
+MD5 checksum: `64f7279dbdba1d95f7c522de795307d2`
 
-SHA1 checksum: `6520311d1d988172a2f00e0c9c2a6fe451413ef0`
+SHA1 checksum: `38a6560806709018be85f82f9aca99f32196ac3a`
 
 ## **YouTube Downloader for Android**
 ## **Copyright (C) 2012-2014 Samuele Rini**
@@ -172,6 +172,14 @@ Are not supported for download all video that:
 
 
 ## CHANGELOG
+
+     v4.2 - May 14 2014
+    -----------------------------------
+    [x] more downloads requiring mux now get actually queued
+    [x] long running audio-extractions in background don\'t crash (may pause only) 
+    [x] formats list reorganized and other optimizations
+    [x] correct XDA thread link into About menu (thanks pandahunter)
+    [x] Khmer translation (as WIP)
 
      v4.1.2 - May 04 2014
     -----------------------------------
