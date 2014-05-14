@@ -9,7 +9,7 @@ footer: true
 description: YouTube Downloader for Android - a free and ad-free app
 keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader
 ---
-YouTube Downloader version 4.2 is available (for the moment only from this blog; I'll update the external stores ASAP).
+YouTube Downloader version 4.2 is available (for the moment only [from this blog](http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk); I'll update the external stores ASAP).
 
 Changelog:
 
