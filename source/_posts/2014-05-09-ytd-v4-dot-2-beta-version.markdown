@@ -15,7 +15,7 @@ Try it out! ...And follow the development chat as always on [XDA](http://forum.x
 
 Changelog:
 
-	v4.2 BETA-2
+	 v4.2 Beta-2
     -----------------------------------
     [x] more downloads requiring mux now get actually queued (thanks Ultramanoid)
     [x] long running audio-extractions in background don\'t crash - may pause only

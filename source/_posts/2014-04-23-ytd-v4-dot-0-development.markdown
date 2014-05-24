@@ -14,7 +14,7 @@ You can follow the development discussion (and download also a Beta) on the [XDA
 
 For the moment, the change-log is:
 
-    v4.0
+     v4.0
     -----------------------------------
     [x] new UI
     [x] integrated search

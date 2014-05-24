@@ -15,7 +15,7 @@ Try it out! ...And follow the development chat as always on [XDA](http://forum.x
 
 Changelog:
 
-	v4.0 BETA-2
+	 v4.0 BETA-2
     -----------------------------------
     [x] new UI
     [x] integrated search
