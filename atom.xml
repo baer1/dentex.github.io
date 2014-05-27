@@ -4,7 +4,7 @@
   <title><![CDATA[dentex's blog]]></title>
   <link href="http://dentex.github.io/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-05-24T20:51:27+02:00</updated>
+  <updated>2014-05-27T12:55:50+02:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[YTD Usage Tutorial]]></title>
+    <link href="http://dentex.github.io/blog/2014-05-27/ytd-usage-tutorial/"/>
+    <updated>2014-05-27T11:52:48+02:00</updated>
+    <id>http://dentex.github.io/blog/2014-05-27/ytd-usage-tutorial</id>
+    <content type="html"><![CDATA[<p>Yesterday I found a great tutorial about how to use YouTube Downloader.  <br/>
+It&rsquo;s on the blog <strong>laptopmag.com</strong>, at this link:</p>
+
+<p><a href="http://blog.laptopmag.com/download-youtube-videos-android-phone">http://blog.laptopmag.com/download-youtube-videos-android-phone</a></p>
+
+<p><img class="laptopmag" src="http://dentex.github.io/images/tutorials/laptopmag_tutorial.jpg">
+ <p class='post-footer' style="font-size:70%;" ></p>
+
+<br/>
+
+
+<br/>
+
+
+<br/>
+
+
+<p>Original Link: <a href="http://dentex.github.io/blog/2014-05-27/ytd-usage-tutorial/">http://dentex.github.io/blog/2014-05-27/ytd-usage-tutorial/</a><br/>
+If you want to reprint it, please do under the  <a rel="nofollow" href=/license>CC BY-NC-SA 4.0</a>
+</p></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[YTD v4.3 Beta]]></title>
@@ -114,7 +142,7 @@ If you want to reprint it, please do under the  <a rel="nofollow" href=/license>
     <link href="http://dentex.github.io/blog/2014-05-12/ytd-v4-dot-2-beta-3/"/>
     <updated>2014-05-12T20:07:48+02:00</updated>
     <id>http://dentex.github.io/blog/2014-05-12/ytd-v4-dot-2-beta-3</id>
-    <content type="html"><![CDATA[<p>A new Beta (number 3) for YTD v4.2 is available for download <a href="http://dentex.github.io/files/apk/beta/dentex.youtube.downloader_v4.2_beta-3.apk">HERE</a>.
+    <content type="html"><![CDATA[<p>A new Beta (number 3) for YTD v4.2 is available for download <em>[link removed &ndash; old beta]</em>.
 It features just some optimizations and bug fixes. Worth a try anyway. Stable version 4.2 is coming soon.
  <p class='post-footer' style="font-size:70%;" ></p>
 
@@ -138,7 +166,7 @@ If you want to reprint it, please do under the  <a rel="nofollow" href=/license>
     <link href="http://dentex.github.io/blog/2014-05-09/ytd-v4-dot-2-beta-version/"/>
     <updated>2014-05-09T14:47:59+02:00</updated>
     <id>http://dentex.github.io/blog/2014-05-09/ytd-v4-dot-2-beta-version</id>
-    <content type="html"><![CDATA[<p>A new Beta for YTD v4.2 is available for download <a href="http://dentex.github.io/files/apk/beta/dentex.youtube.downloader_v4.2_beta-2.apk">HERE</a>.</p>
+    <content type="html"><![CDATA[<p>A new Beta for YTD v4.2 is available for download <em>[link removed &ndash; old beta]</em>.</p>
 
 <p>Try it out! &hellip;And follow the development chat as always on <a href="http://forum.xda-developers.com/showthread.php?t=2335450">XDA</a>.</p>
 
@@ -259,7 +287,7 @@ If you want to reprint it, please do under the  <a rel="nofollow" href=/license>
     <link href="http://dentex.github.io/blog/2014-04-24/ytds-second-beta-for-v4-dot-0/"/>
     <updated>2014-04-24T17:47:00+02:00</updated>
     <id>http://dentex.github.io/blog/2014-04-24/ytds-second-beta-for-v4-dot-0</id>
-    <content type="html"><![CDATA[<p>2nd Beta for YTD v4.0 is available for download <a href="http://dentex.github.io/files/apk/beta/dentex.youtube.downloader_v4.0_Beta-2.apk">HERE</a>.</p>
+    <content type="html"><![CDATA[<p>2nd Beta for YTD v4.0 is available for download <em>[link removed &ndash; old beta]</em>.</p>
 
 <p>Try it out! &hellip;And follow the development chat as always on <a href="http://forum.xda-developers.com/showthread.php?t=2335450">XDA</a>.</p>
 
@@ -489,7 +517,7 @@ If you want to reprint it, please do under the  <a rel="nofollow" href=/license>
     <link href="http://dentex.github.io/blog/2014-01-29/infographic-how-to-use-ytd-without-the-youtube-app/"/>
     <updated>2014-01-29T20:10:41+01:00</updated>
     <id>http://dentex.github.io/blog/2014-01-29/infographic-how-to-use-ytd-without-the-youtube-app</id>
-    <content type="html"><![CDATA[<p><img src="http://dentex.github.io/images/infographics/YTD_no-YouTube.png" alt="info" />
+    <content type="html"><![CDATA[<p><img src="http://dentex.github.io/images/tutorials/YTD_no-YouTube.png" alt="info" />
  <p class='post-footer' style="font-size:70%;" ></p>
 
 <br/>
