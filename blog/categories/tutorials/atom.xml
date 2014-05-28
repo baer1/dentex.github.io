@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Tutorials | dentex's blog]]></title>
   <link href="http://dentex.github.io/blog/categories/tutorials/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-05-27T13:01:45+02:00</updated>
+  <updated>2014-05-28T19:35:59+02:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -12,20 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[YTD Usage Tutorial]]></title>
-    <link href="http://dentex.github.io/blog/2014-05-27/ytd-usage-tutorial/"/>
-    <updated>2014-05-27T11:52:48+02:00</updated>
-    <id>http://dentex.github.io/blog/2014-05-27/ytd-usage-tutorial</id>
-    <content type="html"><![CDATA[<p>Yesterday I found a great tutorial about how to use YouTube Downloader, by Avram Piltch.  <br/>
-It&rsquo;s on the blog <strong>laptopmag.com</strong>, at this link:</p>
-
-<p><a href="http://blog.laptopmag.com/download-youtube-videos-android-phone">http://blog.laptopmag.com/download-youtube-videos-android-phone</a></p>
-
-<p><img class="laptopmag" src="/images/tutorials/laptopmag_tutorial.jpg"></p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[How to 'Mux' (Combine Audio and Video) With YTD...]]></title>
@@ -76,7 +62,7 @@ and an audio-only streams into a single complete video.</p>
     <link href="http://dentex.github.io/blog/2014-01-29/infographic-how-to-use-ytd-without-the-youtube-app/"/>
     <updated>2014-01-29T20:10:41+01:00</updated>
     <id>http://dentex.github.io/blog/2014-01-29/infographic-how-to-use-ytd-without-the-youtube-app</id>
-    <content type="html"><![CDATA[<p><img src="/images/tutorials/YTD_no-YouTube.png" alt="info" /></p>
+    <content type="html"><![CDATA[<p><img src="/images/infographics/YTD_no-YouTube.png" alt="info" /></p>
 ]]></content>
   </entry>
   
