@@ -15,4 +15,4 @@ It's on the blog **laptopmag.com**, at this link:
 
 http://blog.laptopmag.com/download-youtube-videos-android-phone
 
-{% img laptopmag /images/tutorials/laptopmag_tutorial.jpg %}
+{% img laptopmag /images/tutorials/laptopmag_tutorial.jpg [laptopmag page extract] %}

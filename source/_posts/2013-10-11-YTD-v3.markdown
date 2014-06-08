@@ -18,5 +18,5 @@ On completed download the single click menu has: Open - Extract audio - Extract 
 
 Long click to do file management: Copy - Move - Rename and also Re-download video - Remove (from Dashboard only) - Delete (to remove also the file) - Pause/Resume (available when downloads are In-Progress).
 
-{% img /images/screenshots/general/374x654-DFG_2013-10-09-07-07-58.png 300 click menu %}
-{% img /images/screenshots/general/374x654-DFG_2013-10-09-07-07-36.png 300 long-click menu %}
+{% img /images/screenshots/general/374x654-DFG_2013-10-09-07-07-58.png 300 [YouTube Downloader for Android [click menu]] %}
+{% img /images/screenshots/general/374x654-DFG_2013-10-09-07-07-36.png 300 [YouTube Downloader for Android [long-click menu]] %}

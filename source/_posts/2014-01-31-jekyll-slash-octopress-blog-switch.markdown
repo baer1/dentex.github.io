@@ -7,8 +7,8 @@ categories: [Octopress]
 description: "Importing the WordPress blog and switching to Octopress"
 keywords: "WordPress, blog, Octopress, Jekyll"
 ---
-{% img oct /images/others/octopress-logo.png %} 
-{% img jek /images/others/jekyll-logo.png %}
+{% img oct /images/others/octopress-logo.png [octopress logo] %} 
+{% img jek /images/others/jekyll-logo.png [jekyll logo] %}
 
 This days I've been setting up this blog using Octopress.
 

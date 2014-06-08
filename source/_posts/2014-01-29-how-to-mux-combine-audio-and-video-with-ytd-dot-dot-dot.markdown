@@ -30,9 +30,9 @@ and an audio-only streams into a single complete video.
 - click OK;
 - wait for completion.
 
-{% img /images/screenshots/how-to-mux/2.png 300 select the VO stream %}
-{% img /images/screenshots/how-to-mux/3.png 300 select entry %}
-{% img /images/screenshots/how-to-mux/4.png 300 confirm %}
+{% img /images/screenshots/how-to-mux/2.png 300 'YouTube Downloader for Android - FFmpeg mux operations' 'select the VO stream' %}
+{% img /images/screenshots/how-to-mux/3.png 300 'YouTube Downloader for Android - FFmpeg mux operations' 'select entry' %}
+{% img /images/screenshots/how-to-mux/4.png 300 'YouTube Downloader for Android - FFmpeg mux operations' 'confirm' %}
 
 A complete video should be avaiable to open from the Dashboard, tagged with `MUX`.
 
