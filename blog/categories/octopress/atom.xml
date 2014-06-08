@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Octopress | dentex's blog]]></title>
   <link href="http://dentex.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-06-02T14:57:19+02:00</updated>
+  <updated>2014-06-08T20:24:36+02:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -18,8 +18,8 @@
     <link href="http://dentex.github.io/blog/2014-01-31/jekyll-slash-octopress-blog-switch/"/>
     <updated>2014-01-31T10:50:12+01:00</updated>
     <id>http://dentex.github.io/blog/2014-01-31/jekyll-slash-octopress-blog-switch</id>
-    <content type="html"><![CDATA[<p><img class="oct" src="/images/others/octopress-logo.png">
-<img class="jek" src="/images/others/jekyll-logo.png"></p>
+    <content type="html"><![CDATA[<p><img class="oct" src="/images/others/octopress-logo.png" title="[octopress logo]" >
+<img class="jek" src="/images/others/jekyll-logo.png" title="[jekyll logo]" ></p>
 
 <p>This days I&rsquo;ve been setting up this blog using Octopress.</p>
 

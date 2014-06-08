@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Tutorials | dentex's blog]]></title>
   <link href="http://dentex.github.io/blog/categories/tutorials/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-06-02T14:57:19+02:00</updated>
+  <updated>2014-06-08T20:24:36+02:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -23,7 +23,7 @@ It&rsquo;s on the blog <strong>laptopmag.com</strong>, at this link:</p>
 
 <p><a href="http://blog.laptopmag.com/download-youtube-videos-android-phone">http://blog.laptopmag.com/download-youtube-videos-android-phone</a></p>
 
-<p><img class="laptopmag" src="/images/tutorials/laptopmag_tutorial.jpg"></p>
+<p><img class="laptopmag" src="/images/tutorials/laptopmag_tutorial.jpg" title="[laptopmag page extract]" ></p>
 ]]></content>
   </entry>
   
@@ -61,9 +61,9 @@ and an audio-only streams into a single complete video.</p>
 </ul>
 
 
-<p><img src="/images/screenshots/how-to-mux/2.png" width="300" title="select the VO stream" >
-<img src="/images/screenshots/how-to-mux/3.png" width="300" title="select entry" >
-<img src="/images/screenshots/how-to-mux/4.png" width="300" title="confirm" ></p>
+<p><img src="/images/screenshots/how-to-mux/2.png" width="300" title="&lsquo;YouTube Downloader for Android &ndash; FFmpeg mux operations&rsquo; &lsquo;select the VO stream&rsquo;" >
+<img src="/images/screenshots/how-to-mux/3.png" width="300" title="&lsquo;YouTube Downloader for Android &ndash; FFmpeg mux operations&rsquo; &lsquo;select entry&rsquo;" >
+<img src="/images/screenshots/how-to-mux/4.png" width="300" title="&lsquo;YouTube Downloader for Android &ndash; FFmpeg mux operations&rsquo; &lsquo;confirm&rsquo;" ></p>
 
 <p>A complete video should be avaiable to open from the Dashboard, tagged with <code>MUX</code>.</p>
 
@@ -76,7 +76,7 @@ and an audio-only streams into a single complete video.</p>
     <link href="http://dentex.github.io/blog/2014-01-29/infographic-how-to-use-ytd-without-the-youtube-app/"/>
     <updated>2014-01-29T20:10:41+01:00</updated>
     <id>http://dentex.github.io/blog/2014-01-29/infographic-how-to-use-ytd-without-the-youtube-app</id>
-    <content type="html"><![CDATA[<p><img src="/images/tutorials/YTD_no-YouTube.png" alt="info" /></p>
+    <content type="html"><![CDATA[<p><img src="/images/tutorials/YTD_no-YouTube.png" title="&lsquo;YouTubwDownloader for Android&rsquo; &lsquo;Infographic on how to use YTD without the YouTube app&rsquo;" ></p>
 ]]></content>
   </entry>
   
