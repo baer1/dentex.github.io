@@ -7,4 +7,4 @@ categories: Tutorials
 description: "YouTube Downloader for Android - a free and ad-free app"
 keywords: "YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader"
 ---
-{% img /images/tutorials/YTD_no-YouTube.png 'YouTubwDownloader for Android' 'Infographic on how to use YTD without the YouTube app' %}
+{% img /images/tutorials/YTD_no-YouTube.png 'YouTubwDownloader for Android - Infographic' 'Infographic on how to use YTD without the YouTube app' %}

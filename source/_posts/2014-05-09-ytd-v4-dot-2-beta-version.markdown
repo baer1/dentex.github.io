@@ -18,6 +18,6 @@ Changelog:
 	 v4.2 Beta-2
     -----------------------------------
     [x] more downloads requiring mux now get actually queued (thanks Ultramanoid)
-    [x] long running audio-extractions in background don\'t crash - may pause only
+    [x] long running audio-extractions in background don't crash - may pause only
     [x] correct XDA thread link into About menu (thanks pandahunter)
     [x] Khmer translation (as WIP)

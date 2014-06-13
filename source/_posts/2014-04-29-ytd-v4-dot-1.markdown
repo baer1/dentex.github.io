@@ -28,6 +28,6 @@ Changelog:
     [x] improved/fixed scraping
     [x] Thai  and Japanese translation (as WIP)
 
-{% img 41-1 /images/screenshots/YTD_4.1/1_sf.png 360 'YouTube Downloader for Android v4.1' 'search by keywords' %}
-{% img 41-2 /images/screenshots/YTD_4.1/2_ff.png 360 'YouTube Downloader for Android v4.1' 'formats available for download' %}
-{% img 41-3 /images/screenshots/YTD_4.1/3_df.png 360 'YouTube Downloader for Android v4.1' 'dashboard for file management' %}
+{% img 41-1 /images/screenshots/YTD_4.1/1_sf.png 360 'YouTube Downloader for Android v4.1 - search tab' 'search by keywords' %}
+{% img 41-2 /images/screenshots/YTD_4.1/2_ff.png 360 'YouTube Downloader for Android v4.1 - formats tab' 'formats available for download' %}
+{% img 41-3 /images/screenshots/YTD_4.1/3_df.png 360 'YouTube Downloader for Android v4.1 - dashboard tab' 'dashboard for file management' %}

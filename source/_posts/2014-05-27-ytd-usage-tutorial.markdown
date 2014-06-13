@@ -6,13 +6,11 @@ comments: true
 categories: Tutorials
 sharing: true
 footer: true
-description: "YouTube Downloader for Android - a free and ad-free app"
-keywords: "YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader, tutorials"
+description: "YouTube Downloader for Android - a free and ad-free app - usage tutorial - review"
+keywords: "YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader, tutorials, review"
 ---
 
 Yesterday I found a great tutorial about how to use YouTube Downloader, by Avram Piltch.    
-It's on the blog **laptopmag.com**, at this link:
+It's on the blog **laptopmag.com**, at [THIS LINK](http://blog.laptopmag.com/download-youtube-videos-android-phone).
 
-http://blog.laptopmag.com/download-youtube-videos-android-phone
-
-{% img laptopmag /images/tutorials/laptopmag_tutorial.jpg [laptopmag page extract] %}
+{% img laptopmag /images/tutorials/laptopmag_tutorial.jpg 'laptopmag page extract' 'YouTube Downloader for Android review and tutorial' %}

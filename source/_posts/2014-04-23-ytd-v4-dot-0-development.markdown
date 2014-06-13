@@ -22,7 +22,7 @@ For the moment, the change-log is:
 
 This is how this version looks like:
 
-{% img 4-1 /images/screenshots/YTD_4.0/1.png 360 'YouTube Downloader for Android v4.0' 'search by keywords' %}
-{% img 4-2 /images/screenshots/YTD_4.0/2.png 360 'YouTube Downloader for Android v4.0' 'search by categories' %}
-{% img 4-3 /images/screenshots/YTD_4.0/3.png 360 'YouTube Downloader for Android v4.0' 'formats available for download' %}
-{% img 4-4 /images/screenshots/YTD_4.0/4.png 360 'YouTube Downloader for Android v4.0' 'dashboard for file management' %}
+{% img 4-1 /images/screenshots/YTD_4.0/1.png 360 'YouTube Downloader for Android v4.0 - search by keywords' 'search by keywords' %}
+{% img 4-2 /images/screenshots/YTD_4.0/2.png 360 'YouTube Downloader for Android v4.0 - search by categories' 'search by categories' %}
+{% img 4-3 /images/screenshots/YTD_4.0/3.png 360 'YouTube Downloader for Android v4.0 - formats' 'formats available for download' %}
+{% img 4-4 /images/screenshots/YTD_4.0/4.png 360 'YouTube Downloader for Android v4.0 - dashboard' 'dashboard for file management' %}
