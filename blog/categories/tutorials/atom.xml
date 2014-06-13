@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Tutorials | dentex's blog]]></title>
   <link href="http://dentex.github.io/blog/categories/tutorials/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-06-11T16:36:27+02:00</updated>
+  <updated>2014-06-13T17:29:55+02:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -14,16 +14,31 @@
 
   
   <entry>
+    <title type="html"><![CDATA[YTD: Another Two Tutorials]]></title>
+    <link href="http://dentex.github.io/blog/2014-06-13/ytd-another-two-tutorials/"/>
+    <updated>2014-06-13T16:46:02+02:00</updated>
+    <id>http://dentex.github.io/blog/2014-06-13/ytd-another-two-tutorials</id>
+    <content type="html"><![CDATA[<p>While I was wandering through the maze of the Internet, again, I discovered another two nice reviews/tutorials about YouTube Downloader and how to use it.</p>
+
+<p>The first one is located on the Blog by Shivkumar Lohar, at <a href="http://www.stupidtechlife.com/download-format-video-using-youtube-downloader-android-smartphone/">THIS LINK</a>.</p>
+
+<p><img class="stupidtechlife" src="/images/tutorials/stupidtechlife.png" title="&lsquo;stupidtechlife page extract&rsquo; &lsquo;YouTube Downloader for Android tutorial &ndash; review on stupidtechlife.com&rsquo;" ></p>
+
+<p>Other than this, how could we not have an <a href="http://www.instructables.com/id/How-to-Download-YouTube-videos-on-android/">Instructables entry</a> also?</p>
+
+<p><a href="http://www.instructables.com"><img src="/images/others/instructables_logo.png" alt="instructables_logo" /></a></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[YTD Usage Tutorial]]></title>
     <link href="http://dentex.github.io/blog/2014-05-27/ytd-usage-tutorial/"/>
     <updated>2014-05-27T11:52:48+02:00</updated>
     <id>http://dentex.github.io/blog/2014-05-27/ytd-usage-tutorial</id>
     <content type="html"><![CDATA[<p>Yesterday I found a great tutorial about how to use YouTube Downloader, by Avram Piltch.  <br/>
-It&rsquo;s on the blog <strong>laptopmag.com</strong>, at this link:</p>
+It&rsquo;s on the blog <strong>laptopmag.com</strong>, at <a href="http://blog.laptopmag.com/download-youtube-videos-android-phone">THIS LINK</a>.</p>
 
-<p><a href="http://blog.laptopmag.com/download-youtube-videos-android-phone">http://blog.laptopmag.com/download-youtube-videos-android-phone</a></p>
-
-<p><img class="laptopmag" src="/images/tutorials/laptopmag_tutorial.jpg" title="[laptopmag page extract]" ></p>
+<p><img class="laptopmag" src="/images/tutorials/laptopmag_tutorial.jpg" title="&lsquo;laptopmag page extract&rsquo; &lsquo;YouTube Downloader for Android review and tutorial&rsquo;" ></p>
 ]]></content>
   </entry>
   
@@ -76,7 +91,7 @@ and an audio-only streams into a single complete video.</p>
     <link href="http://dentex.github.io/blog/2014-01-29/infographic-how-to-use-ytd-without-the-youtube-app/"/>
     <updated>2014-01-29T20:10:41+01:00</updated>
     <id>http://dentex.github.io/blog/2014-01-29/infographic-how-to-use-ytd-without-the-youtube-app</id>
-    <content type="html"><![CDATA[<p><img src="/images/tutorials/YTD_no-YouTube.png" title="&lsquo;YouTubwDownloader for Android&rsquo; &lsquo;Infographic on how to use YTD without the YouTube app&rsquo;" ></p>
+    <content type="html"><![CDATA[<p><img src="/images/tutorials/YTD_no-YouTube.png" title="&lsquo;YouTubwDownloader for Android &ndash; Infographic&rsquo; &lsquo;Infographic on how to use YTD without the YouTube app&rsquo;" ></p>
 ]]></content>
   </entry>
   

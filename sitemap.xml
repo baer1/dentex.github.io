@@ -14,13 +14,13 @@
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2013-10-11/YTD-v3/</loc>
-        <lastmod>2014-06-08T20:10:20+02:00</lastmod>
+        <lastmod>2014-06-13T17:11:10+02:00</lastmod>
     </url>
     <url>
         <loc>
             http://dentex.github.io/blog/2014-01-29/infographic-how-to-use-ytd-without-the-youtube-app/
         </loc>
-        <lastmod>2014-06-08T20:22:40+02:00</lastmod>
+        <lastmod>2014-06-13T17:13:53+02:00</lastmod>
     </url>
     <url>
         <loc>
@@ -44,7 +44,7 @@
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2014-04-23/ytd-v4-dot-0-development/</loc>
-        <lastmod>2014-06-08T20:19:27+02:00</lastmod>
+        <lastmod>2014-06-13T17:12:02+02:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2014-04-24/ytds-second-beta-for-v4-dot-0/</loc>
@@ -52,7 +52,7 @@
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2014-04-29/ytd-v4-dot-1/</loc>
-        <lastmod>2014-06-08T20:18:32+02:00</lastmod>
+        <lastmod>2014-06-13T17:12:34+02:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2014-05-04/ytd-v4-dot-1-dot-2/</loc>
@@ -60,7 +60,7 @@
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2014-05-09/ytd-v4-dot-2-beta-version/</loc>
-        <lastmod>2014-05-28T20:17:27+02:00</lastmod>
+        <lastmod>2014-06-13T17:12:43+02:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2014-05-12/ytd-v4-dot-2-beta-3/</loc>
@@ -80,11 +80,15 @@
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2014-05-27/ytd-usage-tutorial/</loc>
-        <lastmod>2014-06-08T19:59:27+02:00</lastmod>
+        <lastmod>2014-06-13T17:13:30+02:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/blog/2014-06-11/ytd-v4-dot-3-beta-2/</loc>
         <lastmod>2014-06-11T15:54:12+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://dentex.github.io/blog/2014-06-13/ytd-another-two-tutorials/</loc>
+        <lastmod>2014-06-13T17:29:28+02:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/screenshots/</loc>
@@ -92,7 +96,7 @@
     </url>
     <url>
         <loc>http://dentex.github.io/blog/archives/</loc>
-        <lastmod>2014-06-11T15:54:12+02:00</lastmod>
+        <lastmod>2014-06-13T17:29:28+02:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/robots.txt</loc>
@@ -116,6 +120,6 @@
     </url>
     <url>
         <loc>http://dentex.github.io/</loc>
-        <lastmod>2014-06-11T15:54:12+02:00</lastmod>
+        <lastmod>2014-06-13T17:29:28+02:00</lastmod>
     </url>
 </urlset>

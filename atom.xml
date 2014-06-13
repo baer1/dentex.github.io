@@ -4,7 +4,7 @@
   <title><![CDATA[dentex's blog]]></title>
   <link href="http://dentex.github.io/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-06-11T16:36:27+02:00</updated>
+  <updated>2014-06-13T17:29:55+02:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -12,6 +12,37 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[YTD: Another Two Tutorials]]></title>
+    <link href="http://dentex.github.io/blog/2014-06-13/ytd-another-two-tutorials/"/>
+    <updated>2014-06-13T16:46:02+02:00</updated>
+    <id>http://dentex.github.io/blog/2014-06-13/ytd-another-two-tutorials</id>
+    <content type="html"><![CDATA[<p>While I was wandering through the maze of the Internet, again, I discovered another two nice reviews/tutorials about YouTube Downloader and how to use it.</p>
+
+<p>The first one is located on the Blog by Shivkumar Lohar, at <a href="http://www.stupidtechlife.com/download-format-video-using-youtube-downloader-android-smartphone/">THIS LINK</a>.</p>
+
+<p><img class="stupidtechlife" src="http://dentex.github.io/images/tutorials/stupidtechlife.png" title="stupidtechlife page extract" alt="YouTube Downloader for Android tutorial - review on stupidtechlife.com"></p>
+
+<p>Other than this, how could we not have an <a href="http://www.instructables.com/id/How-to-Download-YouTube-videos-on-android/">Instructables entry</a> also?</p>
+
+<p><a href="http://www.instructables.com"><img src="http://dentex.github.io/images/others/instructables_logo.png" alt="instructables_logo" /></a>
+ <p class='post-footer' style="font-size:70%;" ></p>
+
+<br/>
+
+
+<br/>
+
+
+<br/>
+
+
+<p>Original Link: <a href="http://dentex.github.io/blog/2014-06-13/ytd-another-two-tutorials/">http://dentex.github.io/blog/2014-06-13/ytd-another-two-tutorials/</a><br/>
+If you want to reprint it, please do under the  <a rel="nofollow" href=/license>CC BY-NC-SA 4.0</a>
+</p></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[YTD v4.3 Beta-2]]></title>
@@ -61,11 +92,9 @@ If you want to reprint it, please do under the  <a rel="nofollow" href=/license>
     <updated>2014-05-27T11:52:48+02:00</updated>
     <id>http://dentex.github.io/blog/2014-05-27/ytd-usage-tutorial</id>
     <content type="html"><![CDATA[<p>Yesterday I found a great tutorial about how to use YouTube Downloader, by Avram Piltch.  <br/>
-It&rsquo;s on the blog <strong>laptopmag.com</strong>, at this link:</p>
+It&rsquo;s on the blog <strong>laptopmag.com</strong>, at <a href="http://blog.laptopmag.com/download-youtube-videos-android-phone">THIS LINK</a>.</p>
 
-<p><a href="http://blog.laptopmag.com/download-youtube-videos-android-phone">http://blog.laptopmag.com/download-youtube-videos-android-phone</a></p>
-
-<p><img class="laptopmag" src="http://dentex.github.io/images/tutorials/laptopmag_tutorial.jpg" title="[laptopmag page extract]" >
+<p><img class="laptopmag" src="http://dentex.github.io/images/tutorials/laptopmag_tutorial.jpg" title="laptopmag page extract" alt="YouTube Downloader for Android review and tutorial">
  <p class='post-footer' style="font-size:70%;" ></p>
 
 <br/>
@@ -217,7 +246,7 @@ If you want to reprint it, please do under the  <a rel="nofollow" href=/license>
 <pre><code> v4.2 Beta-2
 -----------------------------------
 [x] more downloads requiring mux now get actually queued (thanks Ultramanoid)
-[x] long running audio-extractions in background don\'t crash - may pause only
+[x] long running audio-extractions in background don't crash - may pause only
 [x] correct XDA thread link into About menu (thanks pandahunter)
 [x] Khmer translation (as WIP)
 </code></pre>
@@ -304,9 +333,9 @@ If you want to reprint it, please do under the  <a rel="nofollow" href=/license>
 [x] Thai  and Japanese translation (as WIP)
 </code></pre>
 
-<p><img class="41-1" src="http://dentex.github.io/images/screenshots/YTD_4.1/1_sf.png" width="360" title="YouTube Downloader for Android v4.1" alt="search by keywords">
-<img class="41-2" src="http://dentex.github.io/images/screenshots/YTD_4.1/2_ff.png" width="360" title="YouTube Downloader for Android v4.1" alt="formats available for download">
-<img class="41-3" src="http://dentex.github.io/images/screenshots/YTD_4.1/3_df.png" width="360" title="YouTube Downloader for Android v4.1" alt="dashboard for file management">
+<p><img class="41-1" src="http://dentex.github.io/images/screenshots/YTD_4.1/1_sf.png" width="360" title="YouTube Downloader for Android v4.1 - search tab" alt="search by keywords">
+<img class="41-2" src="http://dentex.github.io/images/screenshots/YTD_4.1/2_ff.png" width="360" title="YouTube Downloader for Android v4.1 - formats tab" alt="formats available for download">
+<img class="41-3" src="http://dentex.github.io/images/screenshots/YTD_4.1/3_df.png" width="360" title="YouTube Downloader for Android v4.1 - dashboard tab" alt="dashboard for file management">
  <p class='post-footer' style="font-size:70%;" ></p>
 
 <br/>
@@ -382,10 +411,10 @@ You can follow the development discussion (and download also a Beta) on the <a h
 
 <p>This is how this version looks like:</p>
 
-<p><img class="4-1" src="http://dentex.github.io/images/screenshots/YTD_4.0/1.png" width="360" title="YouTube Downloader for Android v4.0" alt="search by keywords">
-<img class="4-2" src="http://dentex.github.io/images/screenshots/YTD_4.0/2.png" width="360" title="YouTube Downloader for Android v4.0" alt="search by categories">
-<img class="4-3" src="http://dentex.github.io/images/screenshots/YTD_4.0/3.png" width="360" title="YouTube Downloader for Android v4.0" alt="formats available for download">
-<img class="4-4" src="http://dentex.github.io/images/screenshots/YTD_4.0/4.png" width="360" title="YouTube Downloader for Android v4.0" alt="dashboard for file management">
+<p><img class="4-1" src="http://dentex.github.io/images/screenshots/YTD_4.0/1.png" width="360" title="YouTube Downloader for Android v4.0 - search by keywords" alt="search by keywords">
+<img class="4-2" src="http://dentex.github.io/images/screenshots/YTD_4.0/2.png" width="360" title="YouTube Downloader for Android v4.0 - search by categories" alt="search by categories">
+<img class="4-3" src="http://dentex.github.io/images/screenshots/YTD_4.0/3.png" width="360" title="YouTube Downloader for Android v4.0 - formats" alt="formats available for download">
+<img class="4-4" src="http://dentex.github.io/images/screenshots/YTD_4.0/4.png" width="360" title="YouTube Downloader for Android v4.0 - dashboard" alt="dashboard for file management">
  <p class='post-footer' style="font-size:70%;" ></p>
 
 <br/>
@@ -559,7 +588,7 @@ If you want to reprint it, please do under the  <a rel="nofollow" href=/license>
     <link href="http://dentex.github.io/blog/2014-01-29/infographic-how-to-use-ytd-without-the-youtube-app/"/>
     <updated>2014-01-29T20:10:41+01:00</updated>
     <id>http://dentex.github.io/blog/2014-01-29/infographic-how-to-use-ytd-without-the-youtube-app</id>
-    <content type="html"><![CDATA[<p><img src="http://dentex.github.io/images/tutorials/YTD_no-YouTube.png" title="YouTubwDownloader for Android" alt="Infographic on how to use YTD without the YouTube app">
+    <content type="html"><![CDATA[<p><img src="http://dentex.github.io/images/tutorials/YTD_no-YouTube.png" title="YouTubwDownloader for Android - Infographic" alt="Infographic on how to use YTD without the YouTube app">
  <p class='post-footer' style="font-size:70%;" ></p>
 
 <br/>
@@ -592,8 +621,8 @@ If you want to reprint it, please do under the  <a rel="nofollow" href=/license>
 
 <p>Long click to do file management: Copy &ndash; Move &ndash; Rename and also Re-download video &ndash; Remove (from Dashboard only) &ndash; Delete (to remove also the file) &ndash; Pause/Resume (available when downloads are In-Progress).</p>
 
-<p><img src="http://dentex.github.io/images/screenshots/general/374x654-DFG_2013-10-09-07-07-58.png" width="300" title="[YouTube Downloader for Android [click menu]]" >
-<img src="http://dentex.github.io/images/screenshots/general/374x654-DFG_2013-10-09-07-07-36.png" width="300" title="[YouTube Downloader for Android [long-click menu]]" >
+<p><img src="http://dentex.github.io/images/screenshots/general/374x654-DFG_2013-10-09-07-07-58.png" width="300" title="YouTube Downloader for Android - click menu" alt="click menu">
+<img src="http://dentex.github.io/images/screenshots/general/374x654-DFG_2013-10-09-07-07-36.png" width="300" title="YouTube Downloader for Android long-press menu" alt="long-press menu">
  <p class='post-footer' style="font-size:70%;" ></p>
 
 <br/>
@@ -665,53 +694,6 @@ If you want to reprint it, please do under the  <a rel="nofollow" href=/license>
 
 
 <p>Original Link: <a href="http://dentex.github.io/blog/2013-05-13/YTD-from-v2-0-to-v2-2/">http://dentex.github.io/blog/2013-05-13/YTD-from-v2-0-to-v2-2/</a><br/>
-If you want to reprint it, please do under the  <a rel="nofollow" href=/license>CC BY-NC-SA 4.0</a>
-</p></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[YTD v2.0 Development]]></title>
-    <link href="http://dentex.github.io/blog/2013-04-26/YTD-v2.0-development/"/>
-    <updated>2013-04-26T19:02:05+02:00</updated>
-    <id>http://dentex.github.io/blog/2013-04-26/YTD-v2.0-development</id>
-    <content type="html"><![CDATA[<p>The development of YTD version 2.0 is slowly coming to the end!</p>
-
-<p>Today I finished the implementation of BugSense to keep track of application&rsquo;s Crashes from the next version&rsquo;s user base, and finally I added a progress bar into the notification for the FFmpeg audio jobs in progress.</p>
-
-<p>Neat.</p>
-
-<p>&hellip;from the latest commits logs:</p>
-
-<ul>
-<li>implemented BugSense (www.bugsense.com)</li>
-<li>added progressBar for FFmpeg jobs</li>
-<li>moved FFmpeg jobs to own thread</li>
-<li>new screenshots</li>
-<li>changed README builder</li>
-<li>improved error handling for FFmpeg process</li>
-<li>implemented &ldquo;remove video&rdquo; pref</li>
-<li>tutorials to own menu; audio extraction tutorial entry</li>
-<li>finished sound/vibration/flash notification option</li>
-<li>fix FC with no audio extraction enabled (due to NullPointer for the audioConfirm checkbox)</li>
-<li>starting work for ring/vibration/flash notification setting</li>
-<li>fixed media scan</li>
-<li>reorganized code credits</li>
-<li>adding confirmation dialog checkbox for audio jobs
-<p class='post-footer' style="font-size:70%;" ></li>
-</ul>
-
-
-<br/>
-
-
-<br/>
-
-
-<br/>
-
-
-<p>Original Link: <a href="http://dentex.github.io/blog/2013-04-26/YTD-v2.0-development/">http://dentex.github.io/blog/2013-04-26/YTD-v2.0-development/</a><br/>
 If you want to reprint it, please do under the  <a rel="nofollow" href=/license>CC BY-NC-SA 4.0</a>
 </p></p>
 ]]></content>
