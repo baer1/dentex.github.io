@@ -1,0 +1,29 @@
+---
+layout: post
+title: "YTD v4.3"
+date: 2014-06-20 21:13:12 +0200
+comments: true
+categories: [News]
+sharing: true
+footer: true
+description: "YouTube Downloader for Android - a free and ad-free app"
+keywords: "YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader"
+---
+YouTube Downloader version 4.3 is available (for the moment only [from this blog](http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk); I'll update the external stores ASAP).
+
+It contains a lot of new features and improvements. Among others, downloading certain videos (i.e. from the Vevo channel) now works again.
+
+Changelog:
+
+      v4.3 - Jun 20 2014
+     -----------------------------------
+     [x] encrypted signature patch (8) (thanks gantt @userscripts.org)
+     [x] search results sorting dialog (into the sliding menu)
+     [x] search field history suggestions
+     [x] new progress bars
+     [x] better light theme
+     [x] app reload upon language or theme change fix
+     [x] file-chooser theme fix
+     [x] send via SSH re-enabled for videos with encrypted signatures
+     [x] support for 2160P and 1440p WebM VO streams
+     [x] clear dashboard brute-force (delete also files paused/in progress)

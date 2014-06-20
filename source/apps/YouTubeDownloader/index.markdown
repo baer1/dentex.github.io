@@ -14,13 +14,14 @@ keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, 
 
 ![YTD](/images/apps/ytd.png)
 
-`versionCode="88"`
+`versionCode="89"`
 
-`versionName="4.2"`
+`versionName="4.3"`
 
-Download the latest APK from [THIS BLOG](http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk)
+Download the latest APK from [THIS BLOG](http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk)    
+[temporary, the latest version 4.3 is available only here]
 
-or take it from anyone of this sites:
+or take it from anyone of this sites [v4.2]:
 
 [![opera_link](/images/others/opera_badge.png)](http://apps.opera.com/youtube_downloader_and_audio_converterextractor.html)
 
@@ -28,9 +29,9 @@ or take it from anyone of this sites:
 
 [![aptoide_link](/images/others/aptoide_logo.png)](http://dentex.store.aptoide.com/app/market/dentex.youtube.downloader/88/5793234/YouTube%20Downloader)
 
-MD5 checksum: `64f7279dbdba1d95f7c522de795307d2`
+MD5 checksum: `7fe7733e14ae27f9986f919e51b7f2ad`
 
-SHA1 checksum: `38a6560806709018be85f82f9aca99f32196ac3a`
+SHA1 checksum: `eaf40c449a982b2300f5e4f47e9fa5988f75d5ff`
 
 ## **YouTube Downloader for Android**
 ## **Copyright (C) 2012-2014 Samuele Rini**
@@ -127,6 +128,9 @@ Are not supported for download all video that:
     
     PagerSlidingTabStrip layout: https://github.com/astuetz/PagerSlidingTabStrip
     Copyright &#169; 2013 Andreas Stuetz, released under the Apache License.
+
+    SmoothProgressBar: https://github.com/castorflex/SmoothProgressBar
+    Copyright &#169; 2014 Antoine Merle, released under the Apache License 2.0.
     
 ## Code excerpts Licenses
     
@@ -152,7 +156,7 @@ Are not supported for download all video that:
     
     Javascript function \"decryptSignature\" and reference for the \"AO HQ hack\" 
     from the Greasemonkey script http://userscripts.org/scripts/show/25105 
-    (MIT License), by Gantt
+    (MIT License), by gantt
     
     QueueThread.java reference: 
     http://mindtherobot.com/blog/159/android-guts-intro-to-loopers-and-handlers/
@@ -173,10 +177,23 @@ Are not supported for download all video that:
 
 ## CHANGELOG
 
+     v4.3 - Jun 20 2014
+    -----------------------------------
+    [x] encrypted signature patch (8) (thanks gantt @userscripts.org)
+    [x] search results sorting dialog (into the sliding menu)
+    [x] search field history suggestions
+    [x] new progress bars
+    [x] better light theme
+    [x] app reload upon language or theme change fix
+    [x] file-chooser theme fix
+    [x] send via SSH re-enabled for videos with encrypted signatures
+    [x] support for 2160P and 1440p WebM VO streams
+    [x] clear dashboard brute-force (delete also files paused/in progress)
+
      v4.2 - May 14 2014
     -----------------------------------
     [x] more downloads requiring mux now get actually queued
-    [x] long running audio-extractions in background don\'t crash (may pause only) 
+    [x] long running audio-extractions in background don't crash (may pause only) 
     [x] formats list reorganized and other optimizations
     [x] correct XDA thread link into About menu (thanks pandahunter)
     [x] Khmer translation (as WIP)
@@ -249,7 +266,7 @@ Are not supported for download all video that:
      - fix for many arm devices 
     [x] menu/preferences reorganization 
     [x] fix and improvements for encrypted signatures 
-    [x] high quality AO streams hack (thanks Gantt@userscripts.org) 
+    [x] high quality AO streams hack (thanks gantt@userscripts.org) 
      
      v3.5.4 - Dic 17 2013 
     ----------------------------------- 
@@ -399,7 +416,7 @@ Are not supported for download all video that:
      
      v2.3 - Jun 25 2013 
     ----------------------------------- 
-    [x] encrypted signature support (thanks Gantt@userscripts.org) 
+    [x] encrypted signature support (thanks gantt@userscripts.org) 
     [x] other bug/stability fixes 
      
      v2.2 - May 12 2013 
