@@ -4,7 +4,7 @@
   <title><![CDATA[Category: News | dentex's blog]]></title>
   <link href="http://dentex.github.io/blog/categories/news/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-06-20T14:20:24+02:00</updated>
+  <updated>2014-06-20T21:18:42+02:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -14,11 +14,38 @@
 
   
   <entry>
+    <title type="html"><![CDATA[YTD v4.3]]></title>
+    <link href="http://dentex.github.io/blog/2014-06-20/ytd-v4-dot-3/"/>
+    <updated>2014-06-20T21:13:12+02:00</updated>
+    <id>http://dentex.github.io/blog/2014-06-20/ytd-v4-dot-3</id>
+    <content type="html"><![CDATA[<p>YouTube Downloader version 4.3 is available (for the moment only <a href="http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk">from this blog</a>; I&rsquo;ll update the external stores ASAP).</p>
+
+<p>It contains a lot of new features and improvements. Among others, downloading certain videos (i.e. from the Vevo channel) now works again.</p>
+
+<p>Changelog:</p>
+
+<pre><code>  v4.3 - Jun 20 2014
+ -----------------------------------
+ [x] encrypted signature patch (8) (thanks gantt @userscripts.org)
+ [x] search results sorting dialog (into the sliding menu)
+ [x] search field history suggestions
+ [x] new progress bars
+ [x] better light theme
+ [x] app reload upon language or theme change fix
+ [x] file-chooser theme fix
+ [x] send via SSH re-enabled for videos with encrypted signatures
+ [x] support for 2160P and 1440p WebM VO streams
+ [x] clear dashboard brute-force (delete also files paused/in progress)
+</code></pre>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[YTD v4.3 Beta-3]]></title>
     <link href="http://dentex.github.io/blog/2014-06-15/ytd-v4-dot-3-beta-3/"/>
     <updated>2014-06-15T15:27:30+02:00</updated>
     <id>http://dentex.github.io/blog/2014-06-15/ytd-v4-dot-3-beta-3</id>
-    <content type="html"><![CDATA[<p>3rd Beta for YTD v4.3 is available for download <a href="http://dentex.github.io/files/apk/beta/dentex.youtube.downloader_v4.3_beta-3.apk">HERE</a>.</p>
+    <content type="html"><![CDATA[<p>3rd Beta for YTD v4.3 is available for download <em>[link removed &ndash; old beta]</em>.</p>
 
 <p>It contains small changes and <strong>updated translations</strong> only.</p>
 
@@ -95,26 +122,6 @@
     <id>http://dentex.github.io/blog/2014-05-17/ytd-4-screenshots</id>
     <content type="html"><![CDATA[<iframe class="imgur-album" width="100%" height="550" frameborder="0" src="http://imgur.com/a/v1SYf/embed"></iframe>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[YTD v4.2]]></title>
-    <link href="http://dentex.github.io/blog/2014-05-14/ytd-v4-dot-2/"/>
-    <updated>2014-05-14T17:56:19+02:00</updated>
-    <id>http://dentex.github.io/blog/2014-05-14/ytd-v4-dot-2</id>
-    <content type="html"><![CDATA[<p>YouTube Downloader version 4.2 is available (for the moment only <a href="http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk">from this blog</a>; I&rsquo;ll update the external stores ASAP).</p>
-
-<p>Changelog:</p>
-
-<pre><code> v4.2 - May 14 2014
------------------------------------
-[x] more downloads requiring mux now get actually queued
-[x] long running audio-extractions in background don't crash (may pause only) 
-[x] formats list reorganized and other optimizations
-[x] correct XDA thread link into About menu (thanks pandahunter)
-[x] Khmer translation (as WIP)
-</code></pre>
 ]]></content>
   </entry>
   

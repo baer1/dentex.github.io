@@ -105,13 +105,14 @@
 
 <p><img src="/images/apps/ytd.png" alt="YTD" /></p>
 
-<p><code>versionCode="88"</code></p>
+<p><code>versionCode="89"</code></p>
 
-<p><code>versionName="4.2"</code></p>
+<p><code>versionName="4.3"</code></p>
 
-<p>Download the latest APK from <a href="http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk">THIS BLOG</a></p>
+<p>Download the latest APK from <a href="http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk">THIS BLOG</a>  <br/>
+[temporary, the latest version 4.3 is available only here]</p>
 
-<p>or take it from anyone of this sites:</p>
+<p>or take it from anyone of this sites [v4.2]:</p>
 
 <p><a href="http://apps.opera.com/youtube_downloader_and_audio_converterextractor.html"><img src="/images/others/opera_badge.png" alt="opera_link" /></a></p>
 
@@ -119,9 +120,9 @@
 
 <p><a href="http://dentex.store.aptoide.com/app/market/dentex.youtube.downloader/88/5793234/YouTube%20Downloader"><img src="/images/others/aptoide_logo.png" alt="aptoide_link" /></a></p>
 
-<p>MD5 checksum: <code>64f7279dbdba1d95f7c522de795307d2</code></p>
+<p>MD5 checksum: <code>7fe7733e14ae27f9986f919e51b7f2ad</code></p>
 
-<p>SHA1 checksum: <code>38a6560806709018be85f82f9aca99f32196ac3a</code></p>
+<p>SHA1 checksum: <code>eaf40c449a982b2300f5e4f47e9fa5988f75d5ff</code></p>
 
 <h2><strong>YouTube Downloader for Android</strong></h2>
 
@@ -241,6 +242,9 @@ Gold Medal icon by Andy, from http://psdblast.com/
 
 PagerSlidingTabStrip layout: https://github.com/astuetz/PagerSlidingTabStrip
 Copyright &amp;#169; 2013 Andreas Stuetz, released under the Apache License.
+
+SmoothProgressBar: https://github.com/castorflex/SmoothProgressBar
+Copyright &amp;#169; 2014 Antoine Merle, released under the Apache License 2.0.
 </code></pre>
 
 <h2>Code excerpts Licenses</h2>
@@ -267,7 +271,7 @@ license: http://www.mozilla.org/MPL/2.0/
 
 Javascript function \"decryptSignature\" and reference for the \"AO HQ hack\" 
 from the Greasemonkey script http://userscripts.org/scripts/show/25105 
-(MIT License), by Gantt
+(MIT License), by gantt
 
 QueueThread.java reference: 
 http://mindtherobot.com/blog/159/android-guts-intro-to-loopers-and-handlers/
@@ -289,10 +293,23 @@ Attribution 3.0 Unported" license (CC BY).
 
 <h2>CHANGELOG</h2>
 
-<pre><code> v4.2 - May 14 2014
+<pre><code> v4.3 - Jun 20 2014
+-----------------------------------
+[x] encrypted signature patch (8) (thanks gantt @userscripts.org)
+[x] search results sorting dialog (into the sliding menu)
+[x] search field history suggestions
+[x] new progress bars
+[x] better light theme
+[x] app reload upon language or theme change fix
+[x] file-chooser theme fix
+[x] send via SSH re-enabled for videos with encrypted signatures
+[x] support for 2160P and 1440p WebM VO streams
+[x] clear dashboard brute-force (delete also files paused/in progress)
+
+ v4.2 - May 14 2014
 -----------------------------------
 [x] more downloads requiring mux now get actually queued
-[x] long running audio-extractions in background don\'t crash (may pause only) 
+[x] long running audio-extractions in background don't crash (may pause only) 
 [x] formats list reorganized and other optimizations
 [x] correct XDA thread link into About menu (thanks pandahunter)
 [x] Khmer translation (as WIP)
@@ -365,7 +382,7 @@ Attribution 3.0 Unported" license (CC BY).
  - fix for many arm devices 
 [x] menu/preferences reorganization 
 [x] fix and improvements for encrypted signatures 
-[x] high quality AO streams hack (thanks Gantt@userscripts.org) 
+[x] high quality AO streams hack (thanks gantt@userscripts.org) 
 
  v3.5.4 - Dic 17 2013 
 ----------------------------------- 
@@ -515,7 +532,7 @@ Attribution 3.0 Unported" license (CC BY).
 
  v2.3 - Jun 25 2013 
 ----------------------------------- 
-[x] encrypted signature support (thanks Gantt@userscripts.org) 
+[x] encrypted signature support (thanks gantt@userscripts.org) 
 [x] other bug/stability fixes 
 
  v2.2 - May 12 2013 
@@ -746,6 +763,10 @@ Attribution 3.0 Unported" license (CC BY).
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2014-06-20/ytd-v4-dot-3/">YTD v4.3</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2014-06-15/ytd-v4-dot-3-beta-3/">YTD v4.3 Beta-3</a>
       </li>
     
@@ -759,10 +780,6 @@ Attribution 3.0 Unported" license (CC BY).
     
       <li class="post">
         <a href="/blog/2014-05-27/ytd-usage-tutorial/">YTD Usage Tutorial</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014-05-24/ytd-v4-dot-3-beta/">YTD v4.3 Beta</a>
       </li>
     
   </ul>
