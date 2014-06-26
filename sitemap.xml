@@ -99,12 +99,16 @@
         <lastmod>2014-06-21T10:01:59+02:00</lastmod>
     </url>
     <url>
+        <loc>http://dentex.github.io/blog/2014-06-26/ytd-v4-dot-4-beta/</loc>
+        <lastmod>2014-06-26T17:19:14+02:00</lastmod>
+    </url>
+    <url>
         <loc>http://dentex.github.io/screenshots/</loc>
         <lastmod>2014-05-28T20:17:28+02:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/blog/archives/</loc>
-        <lastmod>2014-06-21T10:06:21+02:00</lastmod>
+        <lastmod>2014-06-26T17:19:14+02:00</lastmod>
     </url>
     <url>
         <loc>http://dentex.github.io/robots.txt</loc>
@@ -128,6 +132,6 @@
     </url>
     <url>
         <loc>http://dentex.github.io/</loc>
-        <lastmod>2014-06-21T10:06:21+02:00</lastmod>
+        <lastmod>2014-06-26T17:19:14+02:00</lastmod>
     </url>
 </urlset>

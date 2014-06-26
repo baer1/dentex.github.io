@@ -4,7 +4,7 @@
   <title><![CDATA[dentex's blog]]></title>
   <link href="http://dentex.github.io/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-06-21T10:06:39+02:00</updated>
+  <updated>2014-06-26T17:20:01+02:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[YTD v4.4 Beta]]></title>
+    <link href="http://dentex.github.io/blog/2014-06-26/ytd-v4-dot-4-beta/"/>
+    <updated>2014-06-26T16:48:38+02:00</updated>
+    <id>http://dentex.github.io/blog/2014-06-26/ytd-v4-dot-4-beta</id>
+    <content type="html"><![CDATA[<p>I have a new beta for YTD with a couple of new features that I played with today.</p>
+
+<pre><code>[x] configurable downloads queue
+preliminary to the playlist download, "Oorah!"
+
+[x] option to invert dashboard's entries click menus
+simple stuff: this will invert the behavior of single-click 
+menu and long-press menu on dashboard items
+</code></pre>
+
+<p><img class="beta" src="http://dentex.github.io/images/screenshots/YTD_4.4/4.4beta.png" title="[YTD v4.4 new features]" ></p>
+
+<p>Some notes:</p>
+
+<ul>
+<li>FFmpeg&rsquo;s download is excluded from the queuing system (will always start)</li>
+<li>reducing the simultaneous downloads will NOT move any task from &ldquo;in progress&rdquo; to &ldquo;queued&rdquo; state</li>
+<li>increasing the simultaneous downloads will accordingly move, from &ldquo;queued&rdquo; to &ldquo;in progress&rdquo;, the required number of tasks</li>
+<li>known issue: for the moment, for two-steps downloads as 1080p and 480p, after downloading the video only, the task will be (erroneously) considered &ldquo;completed&rdquo; and the next download in queue will fire. I hope to fix this later implementing some sort of priority for the AO stream download.</li>
+</ul>
+
+
+<p>Download the apk <a href="http://dentex.github.io/files/apk/beta/dentex.youtube.downloader_v4.4-beta.apk">HERE</a>
+ <p class='post-footer' style="font-size:70%;" ></p>
+
+<br/>
+
+
+<br/>
+
+
+<br/>
+
+
+<p>Original Link: <a href="http://dentex.github.io/blog/2014-06-26/ytd-v4-dot-4-beta/">http://dentex.github.io/blog/2014-06-26/ytd-v4-dot-4-beta/</a><br/>
+If you want to reprint it, please do under the  <a rel="nofollow" href=/license>CC BY-NC-SA 4.0</a>
+</p></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[YTD v4.3]]></title>
@@ -686,40 +731,6 @@ If you want to reprint it, please do under the  <a rel="nofollow" href=/license>
 
 
 <p>Original Link: <a href="http://dentex.github.io/blog/2014-01-29/infographic-how-to-use-ytd-without-the-youtube-app/">http://dentex.github.io/blog/2014-01-29/infographic-how-to-use-ytd-without-the-youtube-app/</a><br/>
-If you want to reprint it, please do under the  <a rel="nofollow" href=/license>CC BY-NC-SA 4.0</a>
-</p></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[YTD v3.0]]></title>
-    <link href="http://dentex.github.io/blog/2013-10-11/YTD-v3/"/>
-    <updated>2013-10-11T08:14:49+02:00</updated>
-    <id>http://dentex.github.io/blog/2013-10-11/YTD-v3</id>
-    <content type="html"><![CDATA[<p>I completed the version 3 for YTD.</p>
-
-<p>The main new feature is a &ldquo;Dashboard&rdquo;, to interact with downloads.</p>
-
-<p>Are available click and long-click menus for every &ldquo;state&rdquo; (in progress, competed, paused, etc) with different actions.</p>
-
-<p>On completed download the single click menu has: Open &ndash; Extract audio &ndash; Extract and convert to mp3.</p>
-
-<p>Long click to do file management: Copy &ndash; Move &ndash; Rename and also Re-download video &ndash; Remove (from Dashboard only) &ndash; Delete (to remove also the file) &ndash; Pause/Resume (available when downloads are In-Progress).</p>
-
-<p><img src="http://dentex.github.io/images/screenshots/general/374x654-DFG_2013-10-09-07-07-58.png" width="300" title="YouTube Downloader for Android - click menu" alt="click menu">
-<img src="http://dentex.github.io/images/screenshots/general/374x654-DFG_2013-10-09-07-07-36.png" width="300" title="YouTube Downloader for Android long-press menu" alt="long-press menu">
- <p class='post-footer' style="font-size:70%;" ></p>
-
-<br/>
-
-
-<br/>
-
-
-<br/>
-
-
-<p>Original Link: <a href="http://dentex.github.io/blog/2013-10-11/YTD-v3/">http://dentex.github.io/blog/2013-10-11/YTD-v3/</a><br/>
 If you want to reprint it, please do under the  <a rel="nofollow" href=/license>CC BY-NC-SA 4.0</a>
 </p></p>
 ]]></content>

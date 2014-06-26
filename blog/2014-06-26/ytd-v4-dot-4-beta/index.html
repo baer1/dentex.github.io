@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Where to Download YTD - dentex's blog</title>
+  <title>YTD v4.4 Beta - dentex's blog</title>
   <meta name="author" content="Samuele Rini">
 
   
-  <meta name="description" content="YouTube Downloader for Android - a free and ad-free app">
+  <meta name="description" content="YouTube Downloader for Android - a free and ad-free app - new beta available">
   <meta name="keywords" content="YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader">
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://dentex.github.io/blog/2014-04-23/where-to-download-ytd">
+  <link rel="canonical" href="http://dentex.github.io/blog/2014-06-26/ytd-v4-dot-4-beta">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="" rel="alternate" title="dentex's blog" type="application/atom+xml">
@@ -82,7 +82,7 @@
   
   <header>
     
-      <h1 class="entry-title">Where to Download YTD</h1>
+      <h1 class="entry-title">YTD v4.4 Beta</h1>
     
     
       <p class="meta">
@@ -98,18 +98,36 @@
   
 
 
-<time datetime="2014-04-23T11:45:16+02:00" pubdate data-updated="true">Apr 23<span>rd</span>, 2014</time>
+<time datetime="2014-06-26T16:48:38+02:00" pubdate data-updated="true">Jun 26<span>th</span>, 2014</time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><p>Apart from <a href="http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk">this blog</a> and the <a href="http://dentex.store.aptoide.com/app/market/dentex.youtube.downloader/89/6129343/YouTube%20Downloader">Aptoide</a> store, <strong>YouTube Downloader</strong> is available for download at the <a href="http://apps.opera.com/youtube_downloader_and_audio_converterextractor.html">Opera Mobile Store</a> and the <a href="http://www.amazon.com/gp/product/B00BGF3LFE">Amazon Appstore</a>.</p>
+<div class="entry-content"><p>I have a new beta for YTD with a couple of new features that I played with today.</p>
 
-<p><a href="http://apps.opera.com/youtube_downloader_and_audio_converterextractor.html"><img src="/images/others/opera_badge.png" alt="opera_link" /></a></p>
+<pre><code>[x] configurable downloads queue
+preliminary to the playlist download, "Oorah!"
 
-<p><a href="http://www.amazon.com/gp/product/B00BGF3LFE"><img src="/images/others/amazon-icon.png" alt="amazon_link" /></a>
+[x] option to invert dashboard's entries click menus
+simple stuff: this will invert the behavior of single-click 
+menu and long-press menu on dashboard items
+</code></pre>
+
+<p><img class="beta" src="/images/screenshots/YTD_4.4/4.4beta.png" title="[YTD v4.4 new features]" ></p>
+
+<p>Some notes:</p>
+
+<ul>
+<li>FFmpeg&rsquo;s download is excluded from the queuing system (will always start)</li>
+<li>reducing the simultaneous downloads will NOT move any task from &ldquo;in progress&rdquo; to &ldquo;queued&rdquo; state</li>
+<li>increasing the simultaneous downloads will accordingly move, from &ldquo;queued&rdquo; to &ldquo;in progress&rdquo;, the required number of tasks</li>
+<li>known issue: for the moment, for two-steps downloads as 1080p and 480p, after downloading the video only, the task will be (erroneously) considered &ldquo;completed&rdquo; and the next download in queue will fire. I hope to fix this later implementing some sort of priority for the AO stream download.</li>
+</ul>
+
+
+<p>Download the apk <a href="http://dentex.github.io/files/apk/beta/dentex.youtube.downloader_v4.4-beta.apk">HERE</a>
  <p class='post-footer' style="font-size:70%;" ></p>
 
 <br/>
@@ -121,7 +139,7 @@
 <br/>
 
 
-<p>Original Link: <a href="/blog/2014-04-23/where-to-download-ytd/">http://dentex.github.io/blog/2014-04-23/where-to-download-ytd/</a><br/>
+<p>Original Link: <a href="/blog/2014-06-26/ytd-v4-dot-4-beta/">http://dentex.github.io/blog/2014-06-26/ytd-v4-dot-4-beta/</a><br/>
 If you want to reprint it, please do under the  <a rel="nofollow" href=/license>CC BY-NC-SA 4.0</a>
 </p></p>
 </div>
@@ -146,7 +164,7 @@ If you want to reprint it, please do under the  <a rel="nofollow" href=/license>
   
 
 
-<time datetime="2014-04-23T11:45:16+02:00" pubdate data-updated="true">Apr 23<span>rd</span>, 2014</time>
+<time datetime="2014-06-26T16:48:38+02:00" pubdate data-updated="true">Jun 26<span>th</span>, 2014</time>
       
 
 <span class="categories">
@@ -160,7 +178,7 @@ If you want to reprint it, please do under the  <a rel="nofollow" href=/license>
     
       <div class="sharing">
   
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://dentex.github.io/blog/2014-04-23/where-to-download-ytd/" data-via="twidentex" data-counturl="http://dentex.github.io/blog/2014-04-23/where-to-download-ytd/" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="http://dentex.github.io/blog/2014-06-26/ytd-v4-dot-4-beta/" data-via="twidentex" data-counturl="http://dentex.github.io/blog/2014-06-26/ytd-v4-dot-4-beta/" >Tweet</a>
   
   
   <div class="g-plusone" data-size="medium"></div>
@@ -171,10 +189,8 @@ If you want to reprint it, please do under the  <a rel="nofollow" href=/license>
     
     <p class="meta">
       
-        <a class="basic-alignment left" href="/blog/2014-02-12/youtube-downloader-on-the-aptoide-market-as-certified-app/" title="Previous Post: YouTube Downloader on the Aptoide market as certified app">&laquo; YouTube Downloader on the Aptoide market as certified app</a>
+        <a class="basic-alignment left" href="/blog/2014-06-20/ytd-v4-dot-3/" title="Previous Post: YTD v4.3">&laquo; YTD v4.3</a>
       
-      
-        <a class="basic-alignment right" href="/blog/2014-04-23/ytd-v4-dot-0-development/" title="Next Post: YTD v4.0 development">YTD v4.0 development &raquo;</a>
       
     </p>
   </footer>
@@ -270,8 +286,8 @@ If you want to reprint it, please do under the  <a rel="nofollow" href=/license>
       
         
         // var disqus_developer = 1;
-        var disqus_identifier = 'http://dentex.github.io/blog/2014-04-23/where-to-download-ytd/';
-        var disqus_url = 'http://dentex.github.io/blog/2014-04-23/where-to-download-ytd/';
+        var disqus_identifier = 'http://dentex.github.io/blog/2014-06-26/ytd-v4-dot-4-beta/';
+        var disqus_url = 'http://dentex.github.io/blog/2014-06-26/ytd-v4-dot-4-beta/';
         var disqus_script = 'embed.js';
       
     (function () {
