@@ -4,7 +4,7 @@
   <title><![CDATA[dentex's blog]]></title>
   <link href="http://dentex.github.io/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-06-30T12:24:42+02:00</updated>
+  <updated>2014-06-30T12:29:39+02:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -53,7 +53,7 @@ menu and long-press menu on dashboard items
 </code></pre>
 
 <ul>
-<li><strong>BUG: There&rsquo;s a problem is with the &ldquo;Auto&rdquo; default entry for the preference &ldquo;simultaneous downloads&rdquo; (see image below). Change it to a numeric value (1 &lt;&ndash;> 10) before downloading anything. </strong></li>
+<li>BUG: There&rsquo;s a problem is with the &ldquo;Auto&rdquo; default entry for the preference &ldquo;simultaneous downloads&rdquo; (see image below). Change it to a numeric value (1 &lt;&ndash;> 10) before downloading anything. <strong>[FIXED: use v4.4 beta-2]</strong></li>
 </ul>
 
 
