@@ -29,4 +29,4 @@ Some notes:
 - increasing the simultaneous downloads will accordingly move, from "queued" to "in progress", the required number of tasks
 - known issue: for the moment, for two-steps downloads as 1080p and 480p, after downloading the video only, the task will be (erroneously) considered "completed" and the next download in queue will fire. I hope to fix this later implementing some sort of priority for the AO stream download.
 
-Download the apk [HERE](http://dentex.github.io/files/apk/beta/dentex.youtube.downloader_v4.4-beta.apk)
+*[link removed - old beta]*.
