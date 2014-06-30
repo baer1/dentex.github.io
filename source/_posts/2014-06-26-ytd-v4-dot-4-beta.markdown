@@ -18,7 +18,7 @@ I have a new beta for YTD with a couple of new features that I played with today
     simple stuff: this will invert the behavior of single-click 
     menu and long-press menu on dashboard items
 
-- **BUG: There's a problem is with the "Auto" default entry for the preference "simultaneous downloads" (see image below). Change it to a numeric value (1 <-> 10) before downloading anything. **
+- BUG: There's a problem is with the "Auto" default entry for the preference "simultaneous downloads" (see image below). Change it to a numeric value (1 <-> 10) before downloading anything. **[FIXED: use v4.4 beta-2]**
 
 {% img beta /images/screenshots/YTD_4.4/4.4beta.png [YTD v4.4 new features] %}
 
