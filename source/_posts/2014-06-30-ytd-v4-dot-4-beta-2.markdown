@@ -10,4 +10,4 @@ description: "YouTube Downloader for Android - a free and ad-free app - new beta
 keywords: "YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader"
 ---
 A new beta fixes the bug for the "Auto" default entry for the preference "simultaneous downloads" and adds some more (hidden) optimizations.
-Download the apk [HERE](http://dentex.github.io/files/apk/beta/dentex.youtube.downloader_v4.4-beta.apk).
+Download the apk [HERE](http://dentex.github.io/files/apk/beta/dentex.youtube.downloader_v4.4-beta-2.apk).
