@@ -19,8 +19,12 @@ FFMPEG="ffmpeg-2.1.3"
 BASE_DIR=`pwd`
 
 #config arm build
-BUILD_DIR="build_arm"
-PREFIX=$BASE_DIR/$BUILD_DIR
+BUILD_DIRarm="build_arm"
+PREFIXarm=$BASE_DIR/$BUILD_DIRarm
+
+#config arm non NEON build
+BUILD_DIRarm_nN="build_arm"
+PREFIXarm_nN=$BASE_DIR/$BUILD_DIRarm_nN
 
 #config x86 build
 BUILD_DIRx86="build_x86"
@@ -30,7 +34,8 @@ TOOLCHAIN=$BASE_DIR/toolchain_x86
 $NDK/build/tools/make-standalone-toolchain.sh --toolchain=x86-4.7 --arch=x86 --system=linux-x86 --platform=android-14 --install-dir=$TOOLCHAIN
 
 #create builds dirs
-mkdir -p $BUILD_DIR
+mkdir -p $BUILD_DIRarm
+mkdir -p $BUILD_DIRarm_nN
 mkdir -p $BUILD_DIRx86
 
 }
@@ -60,8 +65,9 @@ $NDK/ndk-build
 cp -vrn jni/lame $SYSROOT/usr/include
 cp -vn libs/armeabi-v7a/liblame.so $SYSROOT/usr/lib/libmp3lame.so
 
-#cp -vrn jni/lame $SYSROOTx86/usr/include
-#cp -vn libs/x86/liblame.so $SYSROOTx86/usr/lib/libmp3lame.so
+#TODO check
+cp -vrn jni/lame $SYSROOTx86/usr/include
+cp -vn libs/x86/liblame.so $SYSROOTx86/usr/lib/libmp3lame.so
 
 cd ..
 }
@@ -83,16 +89,49 @@ FLAGS="--target-os=linux --cross-prefix=arm-linux-androideabi- --arch=arm \
 
 EXTRA_CFLAGS="-march=armv7-a -mfpu=neon -mfloat-abi=softfp -mvectorize-with-neon-quad"
 
-rm -rf $PREFIX
-mkdir -p $PREFIX
+rm -rf $PREFIXarm
+mkdir -p $PREFIXarm
 
-echo $FLAGS --prefix=$PREFIX --extra-cflags="$CFLAGS $EXTRA_CFLAGS" --extra-ldflags="$EXTRA_LDFLAGS" > $PREFIX/info.txt
-./configure $FLAGS --prefix=$PREFIX --extra-cflags="$CFLAGS $EXTRA_CFLAGS" --extra-ldflags="$EXTRA_LDFLAGS" | tee $PREFIX/configuration.txt
+echo $FLAGS --prefix=$PREFIXarm --extra-cflags="$CFLAGS $EXTRA_CFLAGS" --extra-ldflags="$EXTRA_LDFLAGS" > $PREFIXarm/info.txt
+./configure $FLAGS --prefix=$PREFIXarm --extra-cflags="$CFLAGS $EXTRA_CFLAGS" --extra-ldflags="$EXTRA_LDFLAGS" | tee $PREFIXarm/configuration.txt
 [ $PIPESTATUS == 0 ] || exit 1
 
 make clean
 make -j4 || exit 1
-make prefix=$PREFIX install || exit 1
+make prefix=$PREFIXarm install || exit 1
+
+cd ..
+}
+
+function build_arm_non_neon {
+#=======================================================================
+echo -e "\n ==> building FFmpeg for ARM (NEON disabled)...\n"
+#=======================================================================
+cd $FFMPEG
+
+CFLAGS="-O3 -Wall -pipe -fasm"
+
+FLAGS="--target-os=linux --cross-prefix=arm-linux-androideabi- --arch=arm --disable-neon\
+	--sysroot=$SYSROOT \
+	--enable-small \
+	--disable-ffplay --disable-ffprobe --disable-ffserver \
+	--disable-doc --disable-htmlpages --disable-manpages --disable-podpages --disable-txtpages \
+	--enable-libmp3lame"
+
+#EXTRA_CFLAGS="-march=armv7-a -mfpu=neon -mfloat-abi=softfp -mvectorize-with-neon-quad"
+EXTRA_CFLAGS="-march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -I$PREFIXarm_nN/include -DANDROID"  # non-NEON version
+# thanks to Jernej (Mavrik) from #ffmpeg on freenode
+
+rm -rf $PREFIXarm_nN
+mkdir -p $PREFIXarm_nN
+
+echo $FLAGS --prefix=$PREFIXarm_nN --extra-cflags="$CFLAGS $EXTRA_CFLAGS" --extra-ldflags="$EXTRA_LDFLAGS" > $PREFIXarm_nN/info.txt
+./configure $FLAGS --prefix=$PREFIXarm_nN --extra-cflags="$CFLAGS $EXTRA_CFLAGS" --extra-ldflags="$EXTRA_LDFLAGS" | tee $PREFIXarm_nN/configuration.txt
+[ $PIPESTATUS == 0 ] || exit 1
+
+make clean
+make -j4 || exit 1
+make prefix=$PREFIXarm_nN install || exit 1
 
 cd ..
 }
@@ -135,7 +174,8 @@ echo -e "\n ==> copying and renaming builds...\n"
 
 mkdir $BASE_DIR/builds_LGPL
 
-cp -v $BUILD_DIR/bin/ffmpeg 		builds_LGPL/ffmpeg_armv7a
+cp -v $BUILD_DIRarm/bin/ffmpeg 		builds_LGPL/ffmpeg_armv7a
+cp -v $BUILD_DIRarm_nN/bin/ffmpeg 	builds_LGPL/ffmpeg_armv7a_non_neon
 cp -v $BUILD_DIRx86/bin/ffmpeg 		builds_LGPL/ffmpeg_x86
 }
 
@@ -145,7 +185,8 @@ echo -e "\n ==> cleaning...\n"
 #=======================================================================
 rm -rf liblame
 rm -rf $FFMPEG
-rm -rf $BUILD_DIR
+rm -rf $BUILD_DIRarm
+rm -rf $BUILD_DIRarm_nN
 rm -rf $BUILD_DIRx86
 rm -rf $TOOLCHAIN
 }
@@ -155,6 +196,7 @@ config
 extract
 build_lame
 build_arm
+build_arm_non_neon
 build_x86
 copy
 clean
