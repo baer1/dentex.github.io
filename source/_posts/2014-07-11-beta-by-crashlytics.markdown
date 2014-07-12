@@ -9,8 +9,8 @@ footer: true
 description: "YouTube Downloader for Android - a free and ad-free app - new beta program"
 keywords: "YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader"
 ---
-I'm launching a new beta test program based on invitation. It has been developed by Crashlytics; they are the same smart guys that build the library I use in YTD to report errors and force-close events.    
-It's really well done and functional: I can post new builds addressing specific issues directly to the beta testers; or I can release frequently new beta versions, because all is integrated into the development environment.    
+I'm launching a new **closed beta** program for **YouTube Downloader**. It has been developed by *Crashlytics*; they are the same smart guys that build the library I use in YTD to report errors and force-close events.
+It's really well done and functional: I can deploy new builds addressing specific issues directly to the beta testers and I can release frequently new versions, because all is integrated into the development environment.
 Other than that, as all their site and UIs in general, it looks awesome.
 
 {% img YTD-Crashlytics-Beta /images/others/beta-by-cl.png 'beta by Crashlytics' 'beta by Crashlytics - partial screenshot' %}
