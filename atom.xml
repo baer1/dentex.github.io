@@ -4,7 +4,7 @@
   <title><![CDATA[dentex's blog]]></title>
   <link href="http://dentex.github.io/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-07-12T15:51:32+02:00</updated>
+  <updated>2014-07-12T15:57:36+02:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -56,8 +56,8 @@ If you want to reprint it, please do under the  <a rel="nofollow" href=/license>
     <link href="http://dentex.github.io/blog/2014-07-11/beta-by-crashlytics/"/>
     <updated>2014-07-11T12:13:29+02:00</updated>
     <id>http://dentex.github.io/blog/2014-07-11/beta-by-crashlytics</id>
-    <content type="html"><![CDATA[<p>I&rsquo;m launching a new beta test program based on invitation. It has been developed by Crashlytics; they are the same smart guys that build the library I use in YTD to report errors and force-close events.  <br/>
-It&rsquo;s really well done and functional: I can post new builds addressing specific issues directly to the beta testers; or I can release frequently new beta versions, because all is integrated into the development environment.  <br/>
+    <content type="html"><![CDATA[<p>I&rsquo;m launching a new <strong>closed beta</strong> program for <strong>YouTube Downloader</strong>. It has been developed by <em>Crashlytics</em>; they are the same smart guys that build the library I use in YTD to report errors and force-close events.
+It&rsquo;s really well done and functional: I can deploy new builds addressing specific issues directly to the beta testers and I can release frequently new versions, because all is integrated into the development environment.
 Other than that, as all their site and UIs in general, it looks awesome.</p>
 
 <p><img class="YTD-Crashlytics-Beta" src="http://dentex.github.io/images/others/beta-by-cl.png" title="beta by Crashlytics" alt="beta by Crashlytics - partial screenshot"></p>
