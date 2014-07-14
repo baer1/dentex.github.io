@@ -1,12 +1,10 @@
 ---
 layout: page
-title: "YouTube Downloader for Android - Beta"
+title: "YTD - Beta"
 date: 2014-07-14 12:00
-comments: true
-sharing: true
-footer: true
-description: YouTube Downloader for Android - a free and ad-free app - Beta version info
-keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader
+comments: false
+sharing: false
+footer: false
 ---
 `versionName="4.3.005_v4.4-beta-5"`
 
