@@ -8,7 +8,7 @@ footer: false
 description: YTD - Beta
 keywords: YTD - Beta
 ---
-`versionName="4.3.002_v4.3.1-beta-2"`
+`versionName="4.3.002.v4.3.1-beta-2"`
 
 SHA1 checksum: `c53fc523c88d3b67b794106001a467bd575479f7`
 
