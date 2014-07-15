@@ -9,7 +9,8 @@ footer: true
 description: "YouTube Downloader for Android - a free and ad-free app - new beta program"
 keywords: "YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader"
 ---
-Changelog for YTD v4.4 beta-3 and 4, available through Crashlytics Beta:
+Changelog for YTD v4.4 beta-3 and 4, 
+~~~~available through Crashlytics Beta:~~~~ (no more: see next post).
 
 	 v4.4 beta-3
 	-----------------------------------
@@ -23,4 +24,4 @@ Changelog for YTD v4.4 beta-3 and 4, available through Crashlytics Beta:
 	[x] added Croatian (almost completed) and Indonesian (partial) translations
 	[x] fixed dashboard rename with existing filename (thanks m0d)
 
-Please see the preceding post for further details about this beta program.
+~~~~Please see the preceding post for further details about this beta program.~~~~
