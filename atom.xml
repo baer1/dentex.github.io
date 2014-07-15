@@ -4,7 +4,7 @@
   <title><![CDATA[dentex's blog]]></title>
   <link href="http://dentex.github.io/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-07-14T20:28:43+02:00</updated>
+  <updated>2014-07-15T14:14:03+02:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -14,11 +14,41 @@
 
   
   <entry>
+    <title type="html"><![CDATA[New Beta Program (Again)]]></title>
+    <link href="http://dentex.github.io/blog/2014-07-15/new-beta-program-again/"/>
+    <updated>2014-07-15T13:49:24+02:00</updated>
+    <id>http://dentex.github.io/blog/2014-07-15/new-beta-program-again</id>
+    <content type="html"><![CDATA[<p>Seeing the extremely low &ldquo;XDA acceptance ratio&rdquo; of the latest beta distribution method, :&ndash;) I&rsquo;m in the process to move from the Crashlytics distribution to an open method where beta versions will be available from the app itself.</p>
+
+<p>Will be just a matter of switching a setting checkbox:</p>
+
+<p><img class="YTD-built-in-Beta" src="http://dentex.github.io/images/others/beta-updates.png" title="beta by YTD" alt="beta by YTD"></p>
+
+<p>Please wait for a next update (v4.3.1) to have this feature.
+ <p class='post-footer' style="font-size:70%;" ></p>
+
+<br/>
+
+
+<br/>
+
+
+<br/>
+
+
+<p>Original Link: <a href="http://dentex.github.io/blog/2014-07-15/new-beta-program-again/">http://dentex.github.io/blog/2014-07-15/new-beta-program-again/</a><br/>
+If you want to reprint it, please do under the  <a rel="nofollow" href=/license>CC BY-NC-SA 4.0</a>
+</p></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[YTD v4.4 Beta-3 and 4]]></title>
     <link href="http://dentex.github.io/blog/2014-07-12/ytd-v4-dot-4-beta-3-and-4/"/>
     <updated>2014-07-12T15:41:40+02:00</updated>
     <id>http://dentex.github.io/blog/2014-07-12/ytd-v4-dot-4-beta-3-and-4</id>
-    <content type="html"><![CDATA[<p>Changelog for YTD v4.4 beta-3 and 4, available through Crashlytics Beta:</p>
+    <content type="html"><![CDATA[<p>Changelog for YTD v4.4 beta-3 and 4,
+<del>available through Crashlytics Beta:</del> (no more: see next post).</p>
 
 <pre><code> v4.4 beta-3
 -----------------------------------
@@ -33,7 +63,7 @@
 [x] fixed dashboard rename with existing filename (thanks m0d)
 </code></pre>
 
-<p>Please see the preceding post for further details about this beta program.
+<p><del>Please see the preceding post for further details about this beta program.</del>
  <p class='post-footer' style="font-size:70%;" ></p>
 
 <br/>
@@ -56,7 +86,9 @@ If you want to reprint it, please do under the  <a rel="nofollow" href=/license>
     <link href="http://dentex.github.io/blog/2014-07-11/beta-by-crashlytics/"/>
     <updated>2014-07-11T12:13:29+02:00</updated>
     <id>http://dentex.github.io/blog/2014-07-11/beta-by-crashlytics</id>
-    <content type="html"><![CDATA[<p>I&rsquo;m launching a new <strong>closed beta</strong> program for <strong>YouTube Downloader</strong>. It has been developed by <em>Crashlytics</em>; they are the same smart guys that build the library I use in YTD to report errors and force-close events.
+    <content type="html"><![CDATA[<p>The informations below are no more valid. See &hellip;</p>
+
+<p>I&rsquo;m launching a new closed beta program for YouTube Downloader It has been developed by Crashlytics; they are the same smart guys that build the library I use in YTD to report errors and force-close events.
 It&rsquo;s really well done and functional: I can deploy new builds addressing specific issues directly to the beta testers and I can release frequently new versions, because all is integrated into the development environment.
 Other than that, as all their site and UIs in general, it looks awesome.</p>
 
@@ -67,16 +99,10 @@ Other than that, as all their site and UIs in general, it looks awesome.</p>
 <ul>
 <li>who&rsquo;s interested can send me a PM on XDA with his/her email address (or a direct mail, if you already know it [hint: PayPal];</li>
 <li>I&rsquo;ll send the invitation to this address (unless the necessary number, type, etc. of testers has been reach);</li>
-<li>you open the email and follow the instructions to install the &ldquo;Beta&rdquo; app; it&rsquo;s not a YTD beta, but an app by Crashlytics that works as dashboard to launch all the beta apps you are subscribed to; including YTD.</li>
+<li>you open the email and follow the instructions to install the &ldquo;Beta&rdquo; app; it&rsquo;s not a YTD beta, but an app by Crashlytics that works as dashboard to launch all the beta apps you are subscribed to; including YTD.
+<p class='post-footer' style="font-size:70%;" ></li>
 </ul>
 
-
-<p>Below, some screenshots for your reference, approved by Crashlytics ;) .</p>
-
-<iframe class="imgur-album" width="100%" height="550" frameborder="0" src="http://imgur.com/a/ZDBTc/embed"></iframe>
-
-
-<p> <p class='post-footer' style="font-size:70%;" ></p>
 
 <br/>
 
@@ -693,32 +719,6 @@ If you want to reprint it, please do under the  <a rel="nofollow" href=/license>
 
 
 <p>Original Link: <a href="http://dentex.github.io/blog/2014-04-23/where-to-download-ytd/">http://dentex.github.io/blog/2014-04-23/where-to-download-ytd/</a><br/>
-If you want to reprint it, please do under the  <a rel="nofollow" href=/license>CC BY-NC-SA 4.0</a>
-</p></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[YouTube Downloader on the Aptoide Market as Certified App]]></title>
-    <link href="http://dentex.github.io/blog/2014-02-12/youtube-downloader-on-the-aptoide-market-as-certified-app/"/>
-    <updated>2014-02-12T17:37:44+01:00</updated>
-    <id>http://dentex.github.io/blog/2014-02-12/youtube-downloader-on-the-aptoide-market-as-certified-app</id>
-    <content type="html"><![CDATA[<p><a href="http://dentex.store.aptoide.com/app/market/dentex.youtube.downloader/89/6129343/YouTube%20Downloader">YTD link on Aptoide</a></p>
-
-<p>Store link an QR code:
-<a href="http://dentex.store.aptoide.com" style="border:none;text-decoration:none;display:inline;" target="_blank"><div style="margin:10px;padding:5px 10px;border:#888 solid 1px;width:145px;  background:#FFF;text-align:center;-moz-border-radius:0px 15px;border-radius:0px 15px;"><div style="color:#666;font-size:14px;font-family:Arial;border-bottom:#888 solid 1px;padding-bottom:5px;"><b>dentex</b><br /><span style="font-size:10px">Aptoide Store QR Code</span></div><img style="border:none;margin:7px 0px;width:145px;height:145px;" src="http://dentex.store.aptoide.com/images/qrcodes/7d549820a3701607914948285647ab4c.png" alt="dentex QR Code" /><br /><img src="https://www.aptoide.com/includes/themes/default/images/bazaar_snippetbutton.png" width="145" style="margin:-3px -5px;padding:1px;"/></div></a>
- <p class='post-footer' style="font-size:70%;" ></p>
-
-<br/>
-
-
-<br/>
-
-
-<br/>
-
-
-<p>Original Link: <a href="http://dentex.github.io/blog/2014-02-12/youtube-downloader-on-the-aptoide-market-as-certified-app/">http://dentex.github.io/blog/2014-02-12/youtube-downloader-on-the-aptoide-market-as-certified-app/</a><br/>
 If you want to reprint it, please do under the  <a rel="nofollow" href=/license>CC BY-NC-SA 4.0</a>
 </p></p>
 ]]></content>
