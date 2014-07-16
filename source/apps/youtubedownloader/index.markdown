@@ -6,7 +6,7 @@ comments: true
 sharing: true
 footer: true
 description: YouTube Downloader for Android - a free and ad-free app
-keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader, audio, ffmpeg, video, extractions, mp3
+keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader, audio, ffmpeg, video, extractions, conversion, mp3, hd, 1080p, 720p
 ---
 ###Android app to download YouTube videos
 ###(and extract/convert audio to mp3). 

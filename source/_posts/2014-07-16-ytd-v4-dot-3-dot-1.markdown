@@ -1,0 +1,19 @@
+---
+layout: post
+title: "YTD v4.3.1"
+date: 2014-07-16 17:10:00 +0200
+comments: true
+categories: [News]
+sharing: true
+footer: true
+description: "YouTube Downloader for Android - a free and ad-free app"
+keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader, audio, ffmpeg, video, extractions, conversion, mp3, hd, 1080p, 720p
+---
+YouTube Downloader version 4.3.1 is available!
+
+Changelog:
+
+     v4.3.1 - Jul 16 2014
+    -----------------------------------
+    [x] encrypted signature patch (9) (thanks Rahul Verma)
+    [x] setting to download beta updates
