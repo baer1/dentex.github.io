@@ -6,7 +6,7 @@ comments: true
 sharing: true
 footer: true
 description: YouTube Downloader for Android - a free and ad-free app
-keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader
+keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader, audio, ffmpeg, video, extractions, mp3
 ---
 ###Android app to download YouTube videos
 ###(and extract/convert audio to mp3). 
@@ -14,9 +14,9 @@ keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, 
 
 ![YTD](/images/apps/ytd.png)
 
-`versionCode="89"`
+`versionCode="90"`
 
-`versionName="4.3"`
+`versionName="4.3.1"`
 
 Download the latest APK from [THIS BLOG](http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk)    
 
@@ -28,9 +28,9 @@ or take it from anyone of this sites:
 
 [![aptoide_link](/images/others/aptoide_logo.png)](http://dentex.store.aptoide.com/app/market/dentex.youtube.downloader/89/6129343/YouTube%20Downloader)
 
-MD5 checksum: `7fe7733e14ae27f9986f919e51b7f2ad`
+MD5 checksum: `9dc53cde717a60743f4ca4a9d12e2873`
 
-SHA1 checksum: `eaf40c449a982b2300f5e4f47e9fa5988f75d5ff`
+SHA1 checksum: `0d72729bafe523b9cfc0a96c6260cba190e450b7`
 
 Beta available: `false`
 
@@ -177,6 +177,11 @@ Are not supported for download all video that:
 
 
 ## CHANGELOG
+
+     v4.3.1 - Jul 16 2014
+    -----------------------------------
+    [x] encrypted signature patch (9) (thanks Rahul Verma)
+    [x] setting to download beta updates
 
      v4.3 - Jun 20 2014
     -----------------------------------
