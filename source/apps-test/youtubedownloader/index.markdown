@@ -12,9 +12,9 @@ keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, 
 ###(and extract/convert audio to mp3). 
 ####For Android 4+
 
-`versionCode="90"`
+`versionCode="91"`
 
-`versionName="4.3.1"`
+`versionName="4.4"`
 
 MD5 checksum: `9dc53cde717a60743f4ca4a9d12e2873`
 
@@ -24,7 +24,7 @@ Beta available: `true`
 
 ## CHANGELOG
 
-     v4.3.1 - Jul 16 2014
+     v4.1 - Jul 22 2014
     -----------------------------------
     [x] -- test --
     [x] -- test --
