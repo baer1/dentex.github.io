@@ -20,11 +20,11 @@ MD5 checksum: `9dc53cde717a60743f4ca4a9d12e2873`
 
 SHA1 checksum: `0d72729bafe523b9cfc0a96c6260cba190e450b7`
 
-Beta available: `true`
+Beta available: `false`
 
 ## CHANGELOG
 
-     v4.1 - Jul 22 2014
+     v4.4 - Jul 22 2014
     -----------------------------------
     [x] -- test --
     [x] -- test --
