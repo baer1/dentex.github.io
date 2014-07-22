@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "YouTube Downloader for Android"
-date: 2014-07-22 10:15
-comments: true
-sharing: true
-footer: true
-description: YouTube Downloader for Android - a free and ad-free app
-keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader, audio, ffmpeg, video, extractions, conversion, mp3, hd, 1080p, 720p
+date: 2014-07-22 10:45
+comments: false
+sharing: false
+footer: false
+description: YTD - test
+keywords: YTD - test
 ---
 ###Android app to download YouTube videos
 ###(and extract/convert audio to mp3). 
@@ -16,19 +16,13 @@ keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, 
 
 `versionName="4.4"`
 
-MD5 checksum: `9dc53cde717a60743f4ca4a9d12e2873`
-
-SHA1 checksum: `0d72729bafe523b9cfc0a96c6260cba190e450b7`
+SHA1 checksum: `xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx`
 
 Beta available: `false`
 
 ## CHANGELOG
 
-     v4.4 - Jul 22 2014
+     v4.4 - XXX xx 2014
     -----------------------------------
-    [x] -- test --
-    [x] -- test --
-    [x] -- test --
-    [x] -- test --
-    [x] -- test --
-    [x] -- test --
+    [x] test
+    [x] test
