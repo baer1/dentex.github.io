@@ -1,0 +1,26 @@
+---
+layout: post
+title: "YTD v4.4 beta-5"
+date: 2014-07-22 10:00:00 +0200
+comments: true
+categories: [News]
+sharing: true
+footer: true
+description: "YouTube Downloader for Android - a free and ad-free app - new beta apk"
+keywords: "YouTube Downloader, Android, android app, app, free, ad-free, no ads, dentex, video, YouTube, downloader, beta"
+---
+A new beta for YouTube Downloader is available for download through the app itself, enabling the [proper preference](http://dentex.github.io/blog/2014-07-15/new-beta-program-again/), or downloading directly the apk from [HERE](http://dentex.github.io/files/apk/beta/dentex.youtube.downloader_v4.4-beta-5.apk).
+
+Please share any idea commenting below or join the discussion [over XDA](http://forum.xda-developers.com/showthread.php?t=2335450).
+
+Changelog:
+
+     v4.4-beta-5 - Jul 22 2014
+    -----------------------------------
+    [x] configurable downloads queue
+    [x] option to invert dashboard's entries click menus
+    [x] auto-resume downloads paused due to network failure
+    [x] new FFmpeg build targeting non-NEON CPUs (i.e. Tegra devices)
+    [x] ability to send logcat to the developer via email
+    [x] added Croatian, Indonesian (WIP) and Norwegian (WIP) translations
+    [x] fixed dashboard rename with existing filename (thanks m0d)
