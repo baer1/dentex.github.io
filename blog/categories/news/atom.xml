@@ -4,7 +4,7 @@
   <title><![CDATA[Category: News | dentex's blog]]></title>
   <link href="http://dentex.github.io/blog/categories/news/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-07-22T11:46:46+02:00</updated>
+  <updated>2014-07-22T12:07:25+02:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[YTD v4.4 Beta-5]]></title>
+    <link href="http://dentex.github.io/blog/2014-07-22/ytd-v4-dot-4-beta-5/"/>
+    <updated>2014-07-22T10:00:00+02:00</updated>
+    <id>http://dentex.github.io/blog/2014-07-22/ytd-v4-dot-4-beta-5</id>
+    <content type="html"><![CDATA[<p>A new beta for YouTube Downloader is available for download through the app itself, enabling the <a href="http://dentex.github.io/blog/2014-07-15/new-beta-program-again/">proper preference</a>, or downloading directly the apk from <a href="http://dentex.github.io/files/apk/beta/dentex.youtube.downloader_v4.4-beta-5.apk">HERE</a>.</p>
+
+<p>Please share any idea commenting below or join the discussion <a href="http://forum.xda-developers.com/showthread.php?t=2335450">over XDA</a>.</p>
+
+<p>Changelog:</p>
+
+<pre><code> v4.4-beta-5 - Jul 22 2014
+-----------------------------------
+[x] configurable downloads queue
+[x] option to invert dashboard's entries click menus
+[x] auto-resume downloads paused due to network failure
+[x] new FFmpeg build targeting non-NEON CPUs (i.e. Tegra devices)
+[x] ability to send logcat to the developer via email
+[x] added Croatian, Indonesian (WIP) and Norwegian (WIP) translations
+[x] fixed dashboard rename with existing filename (thanks m0d)
+</code></pre>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[YTD v4.3.1]]></title>
@@ -92,16 +116,6 @@ Other than that, as all their site and UIs in general, it looks awesome.</p>
 <li>you open the email and follow the instructions to install the &ldquo;Beta&rdquo; app; it&rsquo;s not a YTD beta, but an app by Crashlytics that works as dashboard to launch all the beta apps you are subscribed to; including YTD.</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[YTD v4.4 Beta-2]]></title>
-    <link href="http://dentex.github.io/blog/2014-06-30/ytd-v4-dot-4-beta-2/"/>
-    <updated>2014-06-30T12:16:27+02:00</updated>
-    <id>http://dentex.github.io/blog/2014-06-30/ytd-v4-dot-4-beta-2</id>
-    <content type="html"><![CDATA[<p>A new beta fixes the bug for the &ldquo;Auto&rdquo; default entry for the preference &ldquo;simultaneous downloads&rdquo; and adds some more (hidden) optimizations.
-<em>[Download link removed &ndash; old beta]</em>.</p>
 ]]></content>
   </entry>
   
