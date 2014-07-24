@@ -4,7 +4,7 @@
   <title><![CDATA[Category: News | dentex's blog]]></title>
   <link href="http://dentex.github.io/blog/categories/news/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-07-22T12:07:25+02:00</updated>
+  <updated>2014-07-24T11:49:27+02:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[YTD v4.3.2]]></title>
+    <link href="http://dentex.github.io/blog/2014-07-24/ytd-v4-dot-3-dot-2/"/>
+    <updated>2014-07-24T09:50:00+02:00</updated>
+    <id>http://dentex.github.io/blog/2014-07-24/ytd-v4-dot-3-dot-2</id>
+    <content type="html"><![CDATA[<p>YouTube Downloader version <strong>4.3.2</strong> is available!  <br/>
+As always, download it <a href="http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk">from this blog</a> or wait until will be available also through the selected app stores (see the <a href="http://dentex.github.io/apps/youtubedownloader">app&rsquo;s page</a>).</p>
+
+<p>Changelog:</p>
+
+<pre><code> v4.3.2 - Jul 24 2014
+-----------------------------------
+[x] encrypted signature patch (10) (thanks gantt)
+</code></pre>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[YTD v4.4 Beta-5]]></title>
@@ -92,30 +109,6 @@ As always, download it <a href="http://dentex.github.io/files/apk/latest/dentex.
 </code></pre>
 
 <p><del>Please see the preceding post for further details about this beta program.</del></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Beta by Crashlytics]]></title>
-    <link href="http://dentex.github.io/blog/2014-07-11/beta-by-crashlytics/"/>
-    <updated>2014-07-11T12:13:29+02:00</updated>
-    <id>http://dentex.github.io/blog/2014-07-11/beta-by-crashlytics</id>
-    <content type="html"><![CDATA[<p>The informations below are no more valid. See &hellip;</p>
-
-<p>I&rsquo;m launching a new closed beta program for YouTube Downloader It has been developed by Crashlytics; they are the same smart guys that build the library I use in YTD to report errors and force-close events.
-It&rsquo;s really well done and functional: I can deploy new builds addressing specific issues directly to the beta testers and I can release frequently new versions, because all is integrated into the development environment.
-Other than that, as all their site and UIs in general, it looks awesome.</p>
-
-<p><img class="YTD-Crashlytics-Beta" src="/images/others/beta-by-cl.png" title="&lsquo;beta by Crashlytics&rsquo; &lsquo;beta by Crashlytics &ndash; partial screenshot&rsquo;" ></p>
-
-<p>Basically, this is how it works:</p>
-
-<ul>
-<li>who&rsquo;s interested can send me a PM on XDA with his/her email address (or a direct mail, if you already know it [hint: PayPal];</li>
-<li>I&rsquo;ll send the invitation to this address (unless the necessary number, type, etc. of testers has been reach);</li>
-<li>you open the email and follow the instructions to install the &ldquo;Beta&rdquo; app; it&rsquo;s not a YTD beta, but an app by Crashlytics that works as dashboard to launch all the beta apps you are subscribed to; including YTD.</li>
-</ul>
-
 ]]></content>
   </entry>
   
