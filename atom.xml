@@ -4,7 +4,7 @@
   <title><![CDATA[dentex's blog]]></title>
   <link href="http://dentex.github.io/atom.xml" rel="self"/>
   <link href="http://dentex.github.io/"/>
-  <updated>2014-07-24T11:55:29+02:00</updated>
+  <updated>2014-07-24T12:13:13+02:00</updated>
   <id>http://dentex.github.io/</id>
   <author>
     <name><![CDATA[Samuele Rini]]></name>
@@ -12,6 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[YTD v4.4 Beta-6]]></title>
+    <link href="http://dentex.github.io/blog/2014-07-24/ytd-v4-dot-4-beta-6/"/>
+    <updated>2014-07-24T10:10:00+02:00</updated>
+    <id>http://dentex.github.io/blog/2014-07-24/ytd-v4-dot-4-beta-6</id>
+    <content type="html"><![CDATA[<p>A new beta for YouTube Downloader is available for download through the app itself, enabling the <a href="http://dentex.github.io/blog/2014-07-15/new-beta-program-again/">proper preference</a>, or downloading directly the apk from <a href="http://dentex.github.io/files/apk/beta/dentex.youtube.downloader_v4.4-beta-6.apk">HERE</a>.</p>
+
+<p>Please share any idea commenting below or join the discussion <a href="http://forum.xda-developers.com/showthread.php?t=2335450">over XDA</a>.</p>
+
+<p>The changelog is the one from the previous beta:</p>
+
+<pre><code> v4.4-beta-5 - Jul 22 2014
+-----------------------------------
+[x] configurable downloads queue
+[x] option to invert dashboard's entries click menus
+[x] auto-resume downloads paused due to network failure
+[x] new FFmpeg build targeting non-NEON CPUs (i.e. Tegra devices)
+[x] ability to send logcat to the developer via email
+[x] added Croatian, Indonesian (WIP) and Norwegian (WIP) translations
+[x] fixed dashboard rename with existing filename (thanks m0d)
+</code></pre>
+
+<p>It just integrates the patch from the stable v4.3.2, addressing another issue with encrypted signature videos.
+ <p class='post-footer' style="font-size:70%;" ></p>
+
+<br/>
+
+
+<br/>
+
+
+<br/>
+
+
+<p>Original Link: <a href="http://dentex.github.io/blog/2014-07-24/ytd-v4-dot-4-beta-6/">http://dentex.github.io/blog/2014-07-24/ytd-v4-dot-4-beta-6/</a><br/>
+If you want to reprint it, please do under the  <a rel="nofollow" href=/license>CC BY-NC-SA 4.0</a>
+</p></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[YTD v4.3.2]]></title>
@@ -50,7 +90,7 @@ If you want to reprint it, please do under the  <a rel="nofollow" href=/license>
     <link href="http://dentex.github.io/blog/2014-07-22/ytd-v4-dot-4-beta-5/"/>
     <updated>2014-07-22T10:00:00+02:00</updated>
     <id>http://dentex.github.io/blog/2014-07-22/ytd-v4-dot-4-beta-5</id>
-    <content type="html"><![CDATA[<p>A new beta for YouTube Downloader is available for download through the app itself, enabling the <a href="http://dentex.github.io/blog/2014-07-15/new-beta-program-again/">proper preference</a>, or downloading directly the apk from <a href="http://dentex.github.io/files/apk/beta/dentex.youtube.downloader_v4.4-beta-5.apk">HERE</a>.</p>
+    <content type="html"><![CDATA[<p>A new beta for YouTube Downloader is available for download through the app itself, enabling the <a href="http://dentex.github.io/blog/2014-07-15/new-beta-program-again/">proper preference</a>, or downloading directly the apk from <em>[link removed &ndash; old beta]</em>.</p>
 
 <p>Please share any idea commenting below or join the discussion <a href="http://forum.xda-developers.com/showthread.php?t=2335450">over XDA</a>.</p>
 
@@ -672,51 +712,6 @@ If you want to reprint it, please do under the  <a rel="nofollow" href=/license>
 
 
 <p>Original Link: <a href="http://dentex.github.io/blog/2014-05-04/ytd-v4-dot-1-dot-2/">http://dentex.github.io/blog/2014-05-04/ytd-v4-dot-1-dot-2/</a><br/>
-If you want to reprint it, please do under the  <a rel="nofollow" href=/license>CC BY-NC-SA 4.0</a>
-</p></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[YTD v4.1]]></title>
-    <link href="http://dentex.github.io/blog/2014-04-29/ytd-v4-dot-1/"/>
-    <updated>2014-04-29T20:48:22+02:00</updated>
-    <id>http://dentex.github.io/blog/2014-04-29/ytd-v4-dot-1</id>
-    <content type="html"><![CDATA[<p>YouTube Downloader version 4.1 is already available (after a fast transition through v4.0).</p>
-
-<p>Changelog:</p>
-
-<pre><code> v4.1 - Apr 29 2014
------------------------------------
-[x] light theme fixed / theme-chooser restored
-[x] default ID3 tags for direct-mp3 downloads (mrdoug\'s idea)
-[x] edit mp3\'s ID3 tags option into Dashboard
-
- v4.0 - Apr 27 2014
------------------------------------
-[x] new UI
-[x] integrated search
-[x] direct 1080p, 480p and mp3 downloads
-[x] grab direct-mp3's quality from the Auto-extract audio setting (dafnis' idea)
-[x] improved/fixed scraping
-[x] Thai  and Japanese translation (as WIP)
-</code></pre>
-
-<p><img class="41-1" src="http://dentex.github.io/images/screenshots/YTD_4.1/1_sf.png" width="360" title="YouTube Downloader for Android v4.1 - search tab" alt="search by keywords">
-<img class="41-2" src="http://dentex.github.io/images/screenshots/YTD_4.1/2_ff.png" width="360" title="YouTube Downloader for Android v4.1 - formats tab" alt="formats available for download">
-<img class="41-3" src="http://dentex.github.io/images/screenshots/YTD_4.1/3_df.png" width="360" title="YouTube Downloader for Android v4.1 - dashboard tab" alt="dashboard for file management">
- <p class='post-footer' style="font-size:70%;" ></p>
-
-<br/>
-
-
-<br/>
-
-
-<br/>
-
-
-<p>Original Link: <a href="http://dentex.github.io/blog/2014-04-29/ytd-v4-dot-1/">http://dentex.github.io/blog/2014-04-29/ytd-v4-dot-1/</a><br/>
 If you want to reprint it, please do under the  <a rel="nofollow" href=/license>CC BY-NC-SA 4.0</a>
 </p></p>
 ]]></content>
