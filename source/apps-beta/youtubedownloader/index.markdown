@@ -11,7 +11,7 @@ keywords: YTD - Beta
 
 `versionName="4.3.2.6_v4.4-beta-6"`
 
-SHA1 checksum: `f310cdc6ffef8699dfb668945aefb5fe40f59dec`
+SHA1 checksum: `8acfecfe1abc2ab4e46e16df68ffc96c0d266874`
 
      v4.4-beta-6 - Jul 24 2014
     -----------------------------------
