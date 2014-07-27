@@ -26,7 +26,7 @@ or take it from anyone of this sites:
 
 [![amazon_link](/images/others/amazon-icon.png)](http://www.amazon.com/gp/product/B00BGF3LFE)
 
-[![aptoide_link](/images/others/aptoide_logo.png)](http://dentex.store.aptoide.com/app/market/dentex.youtube.downloader/90/6387500/YouTube%20Downloader%20for%20Android)
+[![aptoide_link](/images/others/aptoide_logo.png)](http://dentex.store.aptoide.com/app/market/dentex.youtube.downloader/91/6462173/YouTube%20Downloader%20for%20Android)
 
 MD5 checksum: `f786cf370f99b8480dcafbf0fea820c1`
 
