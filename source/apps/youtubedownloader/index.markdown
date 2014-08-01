@@ -30,8 +30,6 @@ or take it from anyone of this app stores:
 
 Coming soon:
 
-![slide-me](/images/others/slideme-icon.png)
-
 ![android-freeware](/images/others/android-freeware-icon.png)
 
 MD5 checksum: `f786cf370f99b8480dcafbf0fea820c1`
