@@ -26,11 +26,7 @@ or take it from anyone of this app stores:
 
 [![aptoide_link](/images/others/aptoide_logo.png)](http://dentex.store.aptoide.com/app/market/dentex.youtube.downloader/91/6462173/YouTube%20Downloader%20for%20Android)
 
-![amazon_link](/images/others/amazon-icon.png)
-
-Coming soon:
-
-![android-freeware](/images/others/android-freeware-icon.png)
+[![android-freeware](/images/others/android-freeware-icon.png)](http://www.androidfreeware.net/download-youtube-downloader.html)
 
 MD5 checksum: `f786cf370f99b8480dcafbf0fea820c1`
 
