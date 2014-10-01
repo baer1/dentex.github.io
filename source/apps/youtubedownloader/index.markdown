@@ -39,9 +39,10 @@ Beta available: `true`
 
 ##[End User License Agreement](/apps/youtubedownloader/eula.html)
 
-##BEFORE INSTALLATION
-- remember to enable **"Unknown Sources"** from your device's **Security** settings, to allow the installation of non market Apps (and safely ignore the subsequent dialog);
-- disable apps as Halo, Screenfilter, Twilight or anything similar (apps that do "draw on other apps"), otherwise the "install" button will not work;
+##INSTALLATION
+- First of all, remember to enable **"Unknown Sources"** from your device's **Security** settings, to allow the installation of non market Apps (safely ignore the subsequent dialog);
+- Temporary disable apps as Halo, Screenfilter, Twilight or anything similar (apps that do "draw on other apps"), otherwise the "install" button will not work;
+- To install the app, click on your notification bar message of download completed (if using the system downloads app, other wise this may vary: i.e. if you have a file manager installed, you can browse to your downloads folder and install YTD's apk directly).
 
 ##USAGE
 - Select the "share" button in the YouTube App while watching a video (or share any YouTube plain text link via any App) and choose "YouTube downloader";
@@ -52,14 +53,14 @@ then:
 - Use the Dashboard to interact with downloaded video (audio extraction/conversion/mux and file management).
 
 ##FEATURES
-- [NEW] Search for YouTube videos whithin the app
+- [NEW] Search for YouTube videos within the app
 - Download locally (support for remote download to another PC via SSH);
 - Support for any format/quality available from YouTube;
 - Audio extraction/conversion to mp3 via item menu in the Dashboard;
 - Mux Audio- and Video-only streams into a complete video (to enjoy HD resolutions available as separated streams only);
 - File management options via long-click on an item in the Dashboard;
 - Handle download link: copy and/or pass it to other apps;
-- video list filters by format, quality ecc via (left) sliding menu;
+- video list filters by format, quality etc via (left) sliding menu;
 - Many preferences to customize usage.
 
 ###KNOWN ISSUE
@@ -70,7 +71,7 @@ Are not supported for download all video that:
 
 - require login (i.e. age restricted video);
 - implement encrypted streams (some complete movies);
-- aren't available in your country;
+- are not available in your country;
 - are live events.
 
 ###Translation project:
@@ -262,7 +263,7 @@ Are not supported for download all video that:
      v3.6.2 - Jan 24 2014 
     ----------------------------------- 
     [x] support for "youtu.be" shortened links in stock browser 
-    [x] no more GPL licenced 
+    [x] no more GPL licensed 
      
      v3.6.1 - Jan 21 2014 
     ----------------------------------- 
@@ -364,7 +365,7 @@ Are not supported for download all video that:
       ^ copy 
       ^ move 
       ^ rename 
-      ^ redownload 
+      ^ re-download 
       ^ remove 
       ^ delete 
       ^ pause/resume 
@@ -479,7 +480,7 @@ Are not supported for download all video that:
      - use other ConnectBot forks 
      - use link inside same LAN 
      - SSH-send to long-press menu 
-    [x] up-navigation for ativities 
+    [x] up-navigation for activities 
     [x] nice translators list 
     [x] new translations: 
      - German 
@@ -493,7 +494,7 @@ Are not supported for download all video that:
      v1.9 - Mar 23 2013 
     ----------------------------------- 
     [x] YT web page parsing improved 
-    [x] fixed notif. error when remove downloads not yet started 
+    [x] fixed notification error when remove downloads not yet started 
     [x] 4K and 3D video support 
     [x] re-organized menus 
     [x] on the fly theme switch 
@@ -519,7 +520,7 @@ Are not supported for download all video that:
     [x] new notification icon 
     [x] landscape orientation support 
     [x] YT video thumbnail preview 
-    [x] entire row in v.list clickable 
+    [x] entire row in v.list click-able 
     [x] Turkish translation 
     [x] Dutch translation 
      
@@ -533,14 +534,14 @@ Are not supported for download all video that:
      v1.6 - Mar 01 2013 
     ----------------------------------- 
     [x] own YTD notification bar 
-    [x] options for own and sys notif. 
+    [x] options for own and sys notification
     [x] added some credits 
      
      v1.5.2 - Feb 25 2013 
     ----------------------------------- 
     [x] better fix on bad video list 
     [x] remove stop download on click 
-    [x] open DM on notif. bar click (still not working in CM ROM) 
+    [x] open DM on notification bar click (still not working in CM ROM) 
      
      v1.5.1 - Feb 24 2013 
     ----------------------------------- 
@@ -549,8 +550,8 @@ Are not supported for download all video that:
      
      v1.5 - Feb 22 2013 
     ----------------------------------- 
-    [x] online update check 
-    [x] option to fetch filesizes 
+    [x] on-line update check 
+    [x] option to fetch file-sizes 
     [x] stop download on click (maybe not working in CM 10.1) 
     [x] DownloadManager quick links 
     [x] settings and DM overflow menu 
@@ -572,7 +573,7 @@ Are not supported for download all video that:
      
      v1.2 - Dec 25 2012 
     ----------------------------------- 
-    [x] fix for YouTube webpage changes 
+    [x] fix for YouTube web-page changes 
      
      v1.1.1 - Dec 16 2012 
     ----------------------------------- 
@@ -595,7 +596,7 @@ Are not supported for download all video that:
     [x] send download via SSH 
     [x] SSH send how-to dialog 
     [x] standard download locations 
-    [x] file-chooser for download dest. 
+    [x] file-chooser for download destination
     [x] add quality suffix options 
     [x] file renaming options 
     -----------------------------------
