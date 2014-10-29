@@ -18,15 +18,15 @@ keywords: YouTube Downloader, Android, android app, app, free, ad-free, no ads, 
 
 `versionName="4.3.2"`
 
-Download the latest APK from [THIS BLOG](http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk)    
+Download the latest APK from [THIS BLOG](http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk)
+
+[![BLOG_download](/images/others/gh_logo.png)](http://dentex.github.io/files/apk/latest/dentex.youtube.downloader.apk) 
 
 or take it from anyone of this app stores:
 
 [![opera_link](/images/others/opera_badge.png)](http://apps.opera.com/youtube_downloader_and_audio_converterextractor.html)
 
 [![aptoide_link](/images/others/aptoide_logo.png)](http://dentex.store.aptoide.com/app/market/dentex.youtube.downloader/91/6462173/YouTube%20Downloader%20for%20Android)
-
-[![android-freeware](/images/others/android-freeware-icon.png)](http://www.androidfreeware.net/download-youtube-downloader.html)
 
 MD5 checksum: `f786cf370f99b8480dcafbf0fea820c1`
 
